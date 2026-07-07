@@ -1,0 +1,1141 @@
+Customer_ID,Quarter,Segment,Plan,Status,MRR_INR,Tenure_Months,Seats,Usage_Pct,CSAT,Industry,Churn_Reason,Onboarding_Type,Support_Tickets,Region
+1,Q1,SMB,Starter,Active,3732,10,2,36,7.3,Logistics,Not Applicable,Self-serve,5,East
+2,Q1,Mid-Market,Growth,Active,18337,22,47,41,8.9,Media,Not Applicable,Self-serve,3,West
+3,Q1,SMB,Growth,Trial,17858,7,6,34,5.2,Ecommerce,Not Applicable,Assisted,4,East
+4,Q1,Mid-Market,Growth,Churned,16357,26,9,40,4.3,Fintech,Missing features,Self-serve,12,South
+5,Q1,Enterprise,Enterprise,Active,40788,11,179,46,7.0,Media,Not Applicable,Enterprise CSM,3,North
+6,Q1,Mid-Market,Growth,Active,9552,35,24,72,8.4,Manufacturing,Not Applicable,Self-serve,3,South
+7,Q1,SMB,Starter,Active,3812,26,7,43,6.7,Media,Not Applicable,Self-serve,4,East
+8,Q1,Enterprise,Enterprise,Active,37658,6,97,61,9.0,Manufacturing,Not Applicable,Self-serve,0,South
+9,Q1,Enterprise,Enterprise,Active,69985,8,171,46,7.5,Media,Not Applicable,Enterprise CSM,3,North
+10,Q1,SMB,Starter,Active,2037,24,6,54,6.8,Manufacturing,Not Applicable,Self-serve,4,East
+11,Q1,SMB,Starter,Active,3255,34,6,72,8.8,Media,Not Applicable,Self-serve,2,North
+12,Q1,Mid-Market,Growth,Churned,19427,35,30,33,3.9,Manufacturing,Competitor,Self-serve,9,North
+13,Q1,Enterprise,Starter,Active,3727,12,3,62,7.4,Manufacturing,Not Applicable,Self-serve,0,West
+14,Q1,Enterprise,Enterprise,Active,75205,27,132,75,8.9,Logistics,Not Applicable,Enterprise CSM,4,North
+15,Q1,SMB,Growth,Active,8289,34,31,49,7.7,SaaS,Not Applicable,Assisted,0,South
+16,Q1,SMB,Starter,Active,2769,12,7,52,6.9,Ecommerce,Not Applicable,Self-serve,4,East
+17,Q1,SMB,Growth,Churned,18586,21,17,30,4.8,Fintech,Missing features,Self-serve,7,North
+18,Q1,Enterprise,Enterprise,Churned,71365,12,152,17,4.1,Ecommerce,No response,Unknown,6,East
+19,Q1,Enterprise,Enterprise,Active,74047,8,22,56,8.1,Healthcare,Not Applicable,Enterprise CSM,1,North
+20,Q1,Mid-Market,Enterprise,Active,63531,23,187,55,7.7,Fintech,Not Applicable,Enterprise CSM,6,North
+21,Q1,Enterprise,Growth,Trial,10687,29,9,50,7.6,Manufacturing,Not Applicable,Assisted,3,East
+22,Q1,Enterprise,Enterprise,Churned,67845,17,127,10,4.5,Fintech,Competitor,Enterprise CSM,5,North
+23,Q1,Enterprise,Growth,Churned,10764,5,25,39,4.2,SaaS,Missing features,Assisted,6,North
+24,Q1,Mid-Market,Growth,Active,16646,12,7,73,8.3,Logistics,Not Applicable,Self-serve,2,North
+25,Q1,Enterprise,Enterprise,Churned,53122,4,27,17,5.7,Manufacturing,Missing features,Enterprise CSM,6,North
+26,Q1,Enterprise,Enterprise,Active,33049,30,52,45,8.2,Healthcare,Not Applicable,Enterprise CSM,3,East
+27,Q1,Mid-Market,Growth,Active,10354,4,16,61,9.0,Healthcare,Not Applicable,Assisted,2,East
+28,Q1,Enterprise,Enterprise,Paused,63115,24,158,29,5.6,Ecommerce,Not Applicable,Self-serve,4,North
+29,Q1,Enterprise,Enterprise,Churned,68494,17,88,5,3.4,Ecommerce,Price,Enterprise CSM,3,South
+30,Q1,Enterprise,Enterprise,Trial,53587,17,177,31,6.6,EdTech,Not Applicable,Enterprise CSM,3,East
+31,Q1,SMB,Starter,Active,2799,36,6,66,9.0,Logistics,Not Applicable,Self-serve,2,South
+32,Q1,Enterprise,Enterprise,Active,41238,21,43,74,7.0,Manufacturing,Not Applicable,Enterprise CSM,3,East
+33,Q1,Mid-Market,Starter,Active,4429,16,7,71,8.5,EdTech,Not Applicable,Self-serve,1,West
+34,Q1,SMB,Starter,Churned,4217,9,7,19,4.9,SaaS,Competitor,Self-serve,10,North
+35,Q1,Enterprise,Enterprise,Active,49162,36,187,67,6.6,EdTech,Not Applicable,Enterprise CSM,5,South
+36,Q1,Enterprise,Growth,Active,15903,15,29,37,8.6,Healthcare,Not Applicable,Self-serve,5,East
+37,Q1,SMB,Starter,Trial,3470,8,4,27,8.0,Ecommerce,Not Applicable,Self-serve,0,North
+38,Q1,Enterprise,Growth,Active,18631,27,7,51,6.7,EdTech,Not Applicable,Self-serve,1,East
+39,Q1,SMB,Starter,Active,3711,14,10,70,6.2,Manufacturing,Not Applicable,Self-serve,5,East
+40,Q1,SMB,Starter,Active,2384,21,3,63,7.4,Ecommerce,Not Applicable,Self-serve,5,West
+41,Q1,Enterprise,Enterprise,Trial,34294,18,128,50,6.9,EdTech,Not Applicable,Enterprise CSM,5,East
+42,Q1,Enterprise,Enterprise,Active,52648,26,175,49,6.5,Healthcare,Not Applicable,Enterprise CSM,2,South
+43,Q1,Mid-Market,Enterprise,Active,48210,19,110,60,7.2,Fintech,Not Applicable,Enterprise CSM,6,North
+44,Q1,SMB,Growth,Active,18687,23,39,59,7.2,Ecommerce,Not Applicable,Assisted,5,North
+45,Q1,SMB,Starter,Active,2339,27,3,63,8.8,Logistics,Not Applicable,Self-serve,5,North
+46,Q1,SMB,Starter,Active,4174,18,2,41,8.9,EdTech,Not Applicable,Self-serve,5,West
+47,Q1,Enterprise,Enterprise,Active,73491,21,95,71,8.9,Ecommerce,Not Applicable,Enterprise CSM,2,North
+48,Q1,Enterprise,Growth,Active,17349,27,27,61,8.5,Logistics,Not Applicable,Assisted,3,South
+49,Q1,SMB,Growth,Trial,17999,13,28,45,7.2,Healthcare,Not Applicable,Assisted,2,South
+50,Q1,SMB,Enterprise,Active,37790,11,172,56,7.6,SaaS,Not Applicable,Enterprise CSM,3,South
+51,Q1,Mid-Market,Growth,Active,16855,19,38,53,7.2,EdTech,Not Applicable,Self-serve,2,West
+52,Q1,Mid-Market,Growth,Active,18685,33,13,56,6.9,Manufacturing,Not Applicable,Self-serve,1,South
+53,Q1,SMB,Starter,Active,3232,13,4,70,7.5,Manufacturing,Not Applicable,Self-serve,4,East
+54,Q1,Enterprise,Enterprise,Paused,72125,26,119,40,6.0,EdTech,Not Applicable,Enterprise CSM,3,West
+55,Q1,SMB,Starter,Active,4235,13,7,73,6.8,Ecommerce,Not Applicable,Self-serve,1,South
+56,Q1,Mid-Market,Enterprise,Churned,66027,35,50,11,4.7,EdTech,Missing features,Enterprise CSM,11,East
+57,Q1,Enterprise,Growth,Trial,17663,3,27,26,6.7,Manufacturing,Not Applicable,Unknown,1,South
+58,Q1,SMB,Starter,Paused,4912,20,8,37,5.5,SaaS,Not Applicable,Self-serve,4,East
+59,Q1,SMB,Growth,Active,19068,23,20,53,6.9,Media,Not Applicable,Self-serve,5,South
+60,Q1,SMB,Growth,Active,8044,30,37,59,6.1,SaaS,Not Applicable,Assisted,5,West
+61,Q1,Mid-Market,Growth,Active,9295,26,10,53,6.4,Media,Not Applicable,Self-serve,5,North
+62,Q1,Enterprise,Enterprise,Active,68287,25,195,66,6.6,Healthcare,Not Applicable,Enterprise CSM,5,North
+63,Q1,Enterprise,Enterprise,Paused,50053,3,92,53,7.9,Logistics,Not Applicable,Enterprise CSM,2,South
+64,Q1,Mid-Market,Starter,Active,3969,7,4,59,8.0,Ecommerce,Not Applicable,Self-serve,4,North
+65,Q1,Enterprise,Enterprise,Active,37114,29,199,63,7.0,EdTech,Not Applicable,Enterprise CSM,1,North
+66,Q1,Mid-Market,Starter,Active,4839,5,7,44,7.1,SaaS,Not Applicable,Self-serve,2,East
+67,Q1,Enterprise,Enterprise,Active,35996,12,48,38,8.8,Media,Not Applicable,Enterprise CSM,1,South
+68,Q1,Enterprise,Enterprise,Churned,43011,4,37,25,5.9,SaaS,Missing features,Enterprise CSM,12,West
+69,Q1,SMB,Starter,Active,2627,29,8,44,7.5,SaaS,Not Applicable,Self-serve,5,South
+70,Q1,SMB,Enterprise,Trial,76673,33,96,37,6.6,Healthcare,Not Applicable,Enterprise CSM,1,South
+71,Q1,Mid-Market,Growth,Paused,11537,27,10,37,6.9,Logistics,Not Applicable,Self-serve,3,West
+72,Q1,Enterprise,Enterprise,Active,54085,21,56,48,8.9,SaaS,Not Applicable,Enterprise CSM,2,North
+73,Q1,Mid-Market,Growth,Trial,19332,32,45,18,6.8,EdTech,Not Applicable,Self-serve,3,South
+74,Q1,Enterprise,Enterprise,Active,43378,23,119,37,8.8,Ecommerce,Not Applicable,Enterprise CSM,3,South
+75,Q1,Mid-Market,Growth,Churned,12795,5,48,29,6.9,Logistics,Missing features,Self-serve,6,East
+76,Q1,SMB,Starter,Active,3676,16,5,50,7.6,Ecommerce,Not Applicable,Self-serve,4,East
+77,Q1,Mid-Market,Enterprise,Churned,30406,6,119,9,4.8,Healthcare,Price,Enterprise CSM,10,West
+78,Q1,SMB,Starter,Active,3250,34,3,62,7.2,Logistics,Not Applicable,Self-serve,6,West
+79,Q1,Enterprise,Starter,Trial,3792,16,2,17,5.8,Logistics,Not Applicable,Self-serve,1,North
+80,Q1,Enterprise,Enterprise,Active,42694,2,144,49,7.0,EdTech,Not Applicable,Enterprise CSM,3,South
+81,Q1,Enterprise,Enterprise,Active,52274,18,199,66,6.4,Media,Not Applicable,Enterprise CSM,1,South
+82,Q1,SMB,Starter,Trial,3607,12,7,40,6.9,Media,Not Applicable,Self-serve,2,East
+83,Q1,Mid-Market,Enterprise,Active,52520,36,155,55,7.4,Media,Not Applicable,Enterprise CSM,0,North
+84,Q1,Mid-Market,Starter,Churned,2547,18,6,36,3.9,Logistics,Poor UX,Self-serve,5,East
+85,Q1,Enterprise,Enterprise,Active,15075,36,49,48,7.4,EdTech,Not Applicable,Enterprise CSM,4,North
+86,Q1,SMB,Growth,Active,14203,13,14,46,7.2,SaaS,Not Applicable,Assisted,6,West
+87,Q1,Mid-Market,Growth,Churned,9669,35,34,8,3.0,Manufacturing,Missing features,Assisted,10,East
+88,Q1,Mid-Market,Growth,Active,17731,25,11,44,6.6,SaaS,Not Applicable,Assisted,6,East
+89,Q1,Mid-Market,Starter,Paused,3762,29,9,19,6.4,Manufacturing,Not Applicable,Unknown,2,East
+90,Q1,Enterprise,Growth,Active,19691,24,5,56,8.3,Manufacturing,Not Applicable,Assisted,1,North
+91,Q1,Mid-Market,Growth,Churned,14759,19,39,19,5.2,Media,No response,Assisted,7,South
+92,Q1,Mid-Market,Enterprise,Active,45559,6,86,53,6.6,Manufacturing,Not Applicable,Enterprise CSM,3,East
+93,Q1,Mid-Market,Growth,Trial,12347,33,37,32,7.3,EdTech,Not Applicable,Self-serve,4,South
+94,Q1,Enterprise,Starter,Active,4584,5,5,70,8.7,Logistics,Not Applicable,Self-serve,4,West
+95,Q1,Enterprise,Enterprise,Active,52934,34,187,62,6.9,Media,Not Applicable,Enterprise CSM,1,West
+96,Q1,Enterprise,Enterprise,Churned,37236,25,24,34,3.9,Ecommerce,Missing features,Enterprise CSM,7,South
+97,Q1,SMB,Starter,Paused,2560,29,6,18,5.2,Ecommerce,Not Applicable,Self-serve,5,West
+98,Q1,Mid-Market,Growth,Active,18547,17,5,48,6.2,Manufacturing,Not Applicable,Assisted,4,North
+99,Q1,Mid-Market,Growth,Active,9262,14,36,63,6.0,Healthcare,Not Applicable,Assisted,3,West
+100,Q1,SMB,Growth,Churned,9069,3,13,23,4.5,Media,Competitor,Unknown,6,South
+101,Q1,Enterprise,Enterprise,Active,47148,17,175,40,6.9,Ecommerce,Not Applicable,Enterprise CSM,2,North
+102,Q1,Enterprise,Starter,Active,3587,27,10,42,7.5,Ecommerce,Not Applicable,Self-serve,3,East
+103,Q1,Enterprise,Enterprise,Active,68198,34,162,43,8.1,Ecommerce,Not Applicable,Self-serve,4,West
+104,Q1,Mid-Market,Enterprise,Active,74196,17,35,51,7.3,SaaS,Not Applicable,Enterprise CSM,4,South
+105,Q1,SMB,Starter,Active,4182,9,10,68,7.0,EdTech,Not Applicable,Self-serve,1,West
+106,Q1,SMB,Growth,Churned,12893,23,12,14,3.4,Fintech,No response,Self-serve,13,East
+107,Q1,Mid-Market,Growth,Active,9382,33,48,63,8.2,Ecommerce,Not Applicable,Assisted,1,East
+108,Q1,Enterprise,Enterprise,Churned,39756,31,126,36,5.6,Healthcare,Missing features,Self-serve,11,South
+109,Q1,Mid-Market,Growth,Churned,19739,3,22,29,5.7,Fintech,Poor UX,Self-serve,9,East
+110,Q1,Enterprise,Enterprise,Active,40357,18,84,38,8.8,Media,Not Applicable,Enterprise CSM,5,East
+111,Q1,Enterprise,Growth,Active,14420,32,49,57,7.4,Media,Not Applicable,Self-serve,2,North
+112,Q1,Mid-Market,Growth,Active,14041,14,41,67,7.7,Manufacturing,Not Applicable,Self-serve,4,West
+113,Q1,SMB,Starter,Paused,4581,22,8,53,7.1,Logistics,Not Applicable,Self-serve,2,South
+114,Q1,SMB,Growth,Churned,13282,31,12,37,4.5,Manufacturing,Price,Self-serve,9,South
+115,Q1,Mid-Market,Growth,Active,13305,27,21,47,6.2,Healthcare,Not Applicable,Self-serve,3,South
+116,Q1,Enterprise,Enterprise,Churned,44967,4,99,26,3.6,Logistics,Price,Enterprise CSM,9,South
+117,Q1,Enterprise,Growth,Active,15604,28,34,51,7.8,Healthcare,Not Applicable,Assisted,1,South
+118,Q1,Mid-Market,Growth,Active,11764,20,44,40,6.3,Manufacturing,Not Applicable,Self-serve,4,South
+119,Q1,Enterprise,Enterprise,Paused,62881,17,146,22,7.3,EdTech,Not Applicable,Enterprise CSM,1,North
+120,Q1,SMB,Starter,Churned,3452,22,3,32,4.8,EdTech,Missing features,Self-serve,6,East
+121,Q1,Mid-Market,Growth,Trial,13566,17,48,50,7.4,Manufacturing,Not Applicable,Assisted,1,East
+122,Q1,SMB,Starter,Paused,4936,18,4,34,6.1,Logistics,Not Applicable,Self-serve,4,West
+123,Q1,SMB,Starter,Active,2963,29,8,70,7.0,Logistics,Not Applicable,Unknown,4,North
+124,Q1,Enterprise,Enterprise,Active,46635,27,167,67,6.9,EdTech,Not Applicable,Self-serve,1,South
+125,Q1,SMB,Growth,Trial,14975,17,38,25,6.9,SaaS,Not Applicable,Assisted,4,East
+126,Q1,Enterprise,Enterprise,Trial,30445,3,131,24,7.0,Logistics,Not Applicable,Enterprise CSM,3,South
+127,Q1,Enterprise,Enterprise,Active,35551,6,138,63,6.0,Fintech,Not Applicable,Enterprise CSM,2,East
+128,Q1,SMB,Starter,Active,4902,5,5,64,7.6,Manufacturing,Not Applicable,Self-serve,4,North
+129,Q1,SMB,Growth,Active,9119,9,14,36,8.4,Manufacturing,Not Applicable,Self-serve,4,South
+130,Q1,SMB,Starter,Active,2286,2,8,66,6.9,Manufacturing,Not Applicable,Self-serve,3,North
+131,Q1,Enterprise,Enterprise,Active,54117,32,59,54,8.1,Fintech,Not Applicable,Enterprise CSM,2,North
+132,Q1,Mid-Market,Growth,Paused,12272,11,34,40,7.0,Healthcare,Not Applicable,Assisted,5,West
+133,Q1,SMB,Growth,Trial,9930,25,33,19,7.5,Fintech,Not Applicable,Self-serve,2,East
+134,Q1,Mid-Market,Growth,Trial,18416,25,8,25,5.8,SaaS,Not Applicable,Assisted,5,East
+135,Q1,Enterprise,Enterprise,Paused,60336,9,184,27,7.3,EdTech,Not Applicable,Enterprise CSM,6,East
+136,Q1,Enterprise,Starter,Churned,4913,22,2,8,6.0,SaaS,Missing features,Self-serve,11,West
+137,Q1,Enterprise,Enterprise,Active,69358,6,107,65,6.1,Ecommerce,Not Applicable,Enterprise CSM,5,West
+138,Q1,SMB,Enterprise,Paused,74600,7,36,39,7.9,Fintech,Not Applicable,Enterprise CSM,1,South
+139,Q1,Enterprise,Enterprise,Active,65720,10,38,71,9.0,EdTech,Not Applicable,Enterprise CSM,2,East
+140,Q1,Enterprise,Enterprise,Churned,65559,28,110,9,3.5,Fintech,Competitor,Enterprise CSM,15,South
+141,Q1,Mid-Market,Enterprise,Active,37352,13,107,48,8.6,SaaS,Not Applicable,Enterprise CSM,2,East
+142,Q1,Mid-Market,Growth,Active,13693,20,6,60,8.5,EdTech,Not Applicable,Self-serve,5,North
+143,Q1,SMB,Growth,Churned,9233,34,33,28,4.6,Ecommerce,Competitor,Self-serve,10,East
+144,Q1,Mid-Market,Enterprise,Active,52484,27,29,42,7.0,Media,Not Applicable,Enterprise CSM,4,North
+145,Q1,Mid-Market,Starter,Active,3863,6,3,50,7.2,Manufacturing,Not Applicable,Self-serve,3,South
+146,Q1,SMB,Growth,Active,17043,31,41,52,7.1,Manufacturing,Not Applicable,Assisted,6,West
+147,Q1,SMB,Growth,Active,17211,6,23,74,8.6,Ecommerce,Not Applicable,Self-serve,0,North
+148,Q1,Enterprise,Growth,Active,13039,7,9,67,6.8,Fintech,Not Applicable,Self-serve,1,North
+149,Q1,SMB,Starter,Active,3580,11,1,43,6.8,Ecommerce,Not Applicable,Self-serve,6,North
+150,Q1,SMB,Growth,Active,16185,20,31,62,6.3,Media,Not Applicable,Self-serve,3,South
+151,Q1,Mid-Market,Enterprise,Trial,75747,15,25,51,7.7,EdTech,Not Applicable,Unknown,4,East
+152,Q1,Mid-Market,Starter,Active,4591,24,9,36,7.5,Healthcare,Not Applicable,Self-serve,3,South
+153,Q1,Mid-Market,Growth,Active,16009,8,6,55,7.1,Logistics,Not Applicable,Self-serve,1,East
+154,Q1,Enterprise,Enterprise,Active,30571,15,42,63,7.1,Manufacturing,Not Applicable,Enterprise CSM,4,East
+155,Q1,Enterprise,Enterprise,Churned,41368,26,152,16,5.5,Manufacturing,Poor UX,Self-serve,15,South
+156,Q1,SMB,Growth,Paused,16166,4,30,27,6.9,Logistics,Not Applicable,Self-serve,5,East
+157,Q1,Mid-Market,Growth,Active,10892,17,37,70,8.2,EdTech,Not Applicable,Self-serve,0,North
+158,Q1,SMB,Growth,Active,16706,3,31,44,8.7,Manufacturing,Not Applicable,Assisted,0,North
+159,Q1,SMB,Growth,Churned,17984,32,37,6,3.3,SaaS,Missing features,Self-serve,11,South
+160,Q1,Mid-Market,Enterprise,Paused,51878,25,119,27,7.7,Manufacturing,Not Applicable,Enterprise CSM,5,West
+161,Q1,SMB,Starter,Paused,4178,20,5,51,6.8,EdTech,Not Applicable,Self-serve,0,East
+162,Q1,SMB,Starter,Paused,2143,11,3,43,7.8,Ecommerce,Not Applicable,Self-serve,3,North
+163,Q1,SMB,Growth,Active,13217,3,11,57,7.6,Manufacturing,Not Applicable,Self-serve,4,East
+164,Q1,SMB,Starter,Paused,3845,4,4,43,5.5,Manufacturing,Not Applicable,Self-serve,5,West
+165,Q1,SMB,Starter,Trial,4788,14,4,43,7.3,EdTech,Not Applicable,Self-serve,4,South
+166,Q1,Mid-Market,Growth,Churned,19092,32,11,12,6.0,SaaS,Missing features,Self-serve,13,North
+167,Q1,Mid-Market,Growth,Active,10352,23,34,43,8.1,Logistics,Not Applicable,Assisted,4,East
+168,Q1,Mid-Market,Enterprise,Active,75150,18,43,73,7.8,Logistics,Not Applicable,Enterprise CSM,4,West
+169,Q1,Enterprise,Enterprise,Active,50095,9,139,50,8.4,SaaS,Not Applicable,Enterprise CSM,2,East
+170,Q1,SMB,Starter,Active,3846,11,2,68,7.5,Logistics,Not Applicable,Self-serve,2,North
+171,Q1,SMB,Starter,Active,4949,23,1,67,8.2,Logistics,Not Applicable,Self-serve,5,East
+172,Q1,SMB,Starter,Paused,4174,34,9,46,7.0,Manufacturing,Not Applicable,Self-serve,2,East
+173,Q1,Enterprise,Enterprise,Active,50332,15,157,41,8.2,EdTech,Not Applicable,Enterprise CSM,5,East
+174,Q1,SMB,Starter,Active,3849,11,9,66,7.9,Healthcare,Not Applicable,Self-serve,3,West
+175,Q1,SMB,Starter,Active,3611,11,1,52,7.5,Healthcare,Not Applicable,Self-serve,6,West
+176,Q1,Mid-Market,Starter,Active,2054,3,9,72,8.5,Manufacturing,Not Applicable,Self-serve,2,East
+177,Q1,Mid-Market,Growth,Trial,12597,18,25,49,6.4,Healthcare,Not Applicable,Unknown,2,North
+178,Q1,SMB,Growth,Active,16900,25,34,74,8.1,Ecommerce,Not Applicable,Self-serve,2,North
+179,Q1,Mid-Market,Growth,Active,17071,6,32,35,6.9,Logistics,Not Applicable,Assisted,4,West
+180,Q1,Mid-Market,Enterprise,Active,32782,5,144,36,8.2,Manufacturing,Not Applicable,Self-serve,0,West
+181,Q1,SMB,Starter,Active,2257,18,5,74,6.9,Fintech,Not Applicable,Self-serve,2,West
+182,Q1,Mid-Market,Starter,Active,2756,6,5,69,7.8,Healthcare,Not Applicable,Self-serve,0,South
+183,Q1,Enterprise,Enterprise,Trial,44994,4,23,27,6.9,Manufacturing,Not Applicable,Enterprise CSM,6,North
+184,Q1,Mid-Market,Enterprise,Active,78505,8,37,40,7.9,Logistics,Not Applicable,Enterprise CSM,3,West
+185,Q1,Mid-Market,Growth,Paused,19950,31,33,54,5.5,Media,Not Applicable,Self-serve,5,South
+186,Q1,Mid-Market,Growth,Active,17206,18,47,68,8.6,Manufacturing,Not Applicable,Self-serve,2,East
+187,Q1,Enterprise,Enterprise,Churned,66158,33,149,29,3.3,Fintech,Missing features,Enterprise CSM,14,North
+188,Q1,SMB,Starter,Active,4733,6,3,43,8.4,Manufacturing,Not Applicable,Self-serve,6,North
+189,Q1,Enterprise,Starter,Churned,2860,7,6,9,5.8,SaaS,Price,Self-serve,8,West
+190,Q1,Mid-Market,Enterprise,Active,54255,9,145,72,8.5,SaaS,Not Applicable,Enterprise CSM,4,West
+191,Q1,Mid-Market,Enterprise,Churned,57763,10,85,25,4.8,Healthcare,No response,Self-serve,13,East
+192,Q1,SMB,Starter,Active,4078,31,5,66,8.7,Ecommerce,Not Applicable,Self-serve,1,South
+193,Q1,Enterprise,Growth,Paused,11550,14,14,47,5.0,SaaS,Not Applicable,Assisted,2,West
+194,Q1,Mid-Market,Enterprise,Active,71102,29,145,37,8.6,Media,Not Applicable,Enterprise CSM,1,North
+195,Q1,SMB,Growth,Active,8837,30,49,70,7.4,SaaS,Not Applicable,Self-serve,3,East
+196,Q1,Enterprise,Growth,Trial,17069,17,42,19,5.6,Manufacturing,Not Applicable,Self-serve,2,West
+197,Q1,Mid-Market,Enterprise,Active,39591,23,181,42,7.0,SaaS,Not Applicable,Enterprise CSM,3,West
+198,Q1,Mid-Market,Enterprise,Churned,43548,36,180,26,4.3,SaaS,Poor UX,Enterprise CSM,13,North
+199,Q1,Enterprise,Enterprise,Active,63092,6,61,57,6.9,EdTech,Not Applicable,Enterprise CSM,0,North
+200,Q1,SMB,Starter,Active,3227,20,3,38,7.5,Logistics,Not Applicable,Self-serve,4,South
+201,Q1,Enterprise,Growth,Active,16386,30,31,41,6.9,Manufacturing,Not Applicable,Self-serve,2,West
+202,Q1,Mid-Market,Growth,Active,19128,30,16,52,6.4,Manufacturing,Not Applicable,Self-serve,5,South
+203,Q1,Enterprise,Starter,Active,4960,34,8,63,8.6,SaaS,Not Applicable,Self-serve,5,North
+204,Q1,Enterprise,Growth,Active,16199,25,26,72,7.7,Healthcare,Not Applicable,Assisted,5,East
+205,Q1,SMB,Starter,Active,2890,29,3,54,6.6,Logistics,Not Applicable,Self-serve,2,North
+206,Q1,SMB,Enterprise,Active,60275,17,168,61,6.9,Healthcare,Not Applicable,Enterprise CSM,5,West
+207,Q1,Mid-Market,Enterprise,Churned,64665,30,42,5,3.1,Fintech,Budget cut,Enterprise CSM,8,North
+208,Q1,Enterprise,Enterprise,Active,61254,21,123,58,7.2,Healthcare,Not Applicable,Self-serve,1,South
+209,Q1,SMB,Starter,Churned,3232,14,3,16,6.0,Manufacturing,Price,Self-serve,11,South
+210,Q1,SMB,Starter,Paused,3551,15,3,38,6.3,Fintech,Not Applicable,Self-serve,1,West
+211,Q1,Enterprise,Growth,Active,19775,29,27,45,7.2,SaaS,Not Applicable,Assisted,2,North
+212,Q1,SMB,Starter,Active,4333,10,8,63,8.5,Healthcare,Not Applicable,Self-serve,2,North
+213,Q1,Enterprise,Enterprise,Active,43047,18,174,71,6.3,Logistics,Not Applicable,Enterprise CSM,5,West
+214,Q1,Enterprise,Enterprise,Active,70236,3,105,58,7.6,Healthcare,Not Applicable,Enterprise CSM,4,West
+215,Q1,Enterprise,Enterprise,Trial,79865,19,172,46,5.2,Healthcare,Not Applicable,Enterprise CSM,6,East
+216,Q1,Mid-Market,Enterprise,Trial,32346,21,28,30,6.5,Fintech,Not Applicable,Enterprise CSM,2,West
+217,Q1,SMB,Starter,Active,2352,29,4,46,8.6,Media,Not Applicable,Self-serve,1,East
+218,Q1,Mid-Market,Starter,Active,2021,34,1,37,6.4,Manufacturing,Not Applicable,Self-serve,3,North
+219,Q1,Mid-Market,Growth,Trial,11532,21,11,17,5.3,Logistics,Not Applicable,Assisted,4,East
+220,Q1,SMB,Starter,Active,3740,31,8,74,6.9,Fintech,Not Applicable,Self-serve,3,West
+221,Q1,Enterprise,Growth,Active,16126,7,49,40,6.6,EdTech,Not Applicable,Self-serve,2,West
+222,Q1,Mid-Market,Starter,Churned,4457,16,5,18,4.8,Healthcare,Price,Self-serve,9,South
+223,Q1,Mid-Market,Growth,Active,12682,27,37,71,8.1,Ecommerce,Not Applicable,Assisted,1,East
+224,Q1,SMB,Growth,Churned,11076,34,32,9,4.9,SaaS,Price,Assisted,7,East
+225,Q1,Mid-Market,Growth,Active,16695,11,22,65,6.9,Media,Not Applicable,Self-serve,5,South
+226,Q1,Mid-Market,Growth,Churned,8112,31,38,14,4.4,Fintech,Poor UX,Assisted,9,South
+227,Q1,Mid-Market,Growth,Paused,14750,24,35,50,5.4,Healthcare,Not Applicable,Assisted,0,South
+228,Q1,SMB,Starter,Active,4281,11,9,54,7.7,Manufacturing,Not Applicable,Self-serve,1,East
+229,Q1,SMB,Starter,Active,3313,9,6,58,7.9,EdTech,Not Applicable,Self-serve,3,North
+230,Q1,Enterprise,Growth,Active,18193,24,32,52,6.3,Ecommerce,Not Applicable,Self-serve,2,North
+231,Q1,Enterprise,Enterprise,Active,60349,34,199,50,6.9,Media,Not Applicable,Enterprise CSM,2,West
+232,Q1,Enterprise,Enterprise,Active,39916,26,185,72,7.0,Logistics,Not Applicable,Enterprise CSM,0,East
+233,Q1,Enterprise,Growth,Active,11907,12,13,65,6.1,Ecommerce,Not Applicable,Assisted,3,North
+234,Q1,Mid-Market,Starter,Active,2491,33,6,67,8.5,Healthcare,Not Applicable,Self-serve,1,West
+235,Q1,Mid-Market,Starter,Active,3277,12,3,41,8.4,SaaS,Not Applicable,Self-serve,1,North
+236,Q1,Mid-Market,Enterprise,Active,67567,22,66,69,6.5,Fintech,Not Applicable,Enterprise CSM,4,North
+237,Q1,SMB,Starter,Active,4510,33,8,42,6.9,Media,Not Applicable,Self-serve,0,West
+238,Q1,Enterprise,Enterprise,Churned,43303,16,87,15,4.9,EdTech,Poor UX,Enterprise CSM,15,North
+239,Q1,Enterprise,Enterprise,Churned,73103,8,25,6,5.2,Healthcare,Competitor,Enterprise CSM,5,South
+240,Q1,Mid-Market,Enterprise,Churned,57204,22,66,8,3.4,Manufacturing,Price,Enterprise CSM,7,North
+241,Q2,Enterprise,Enterprise,Active,34143,8,22,38,8.7,EdTech,Not Applicable,Self-serve,5,East
+242,Q2,Mid-Market,Starter,Active,3263,18,4,59,8.0,SaaS,Not Applicable,Self-serve,4,South
+243,Q2,SMB,Growth,Active,8943,28,15,64,7.7,Manufacturing,Not Applicable,Self-serve,0,East
+244,Q2,Enterprise,Enterprise,Active,37895,31,193,36,6.4,EdTech,Not Applicable,Enterprise CSM,1,West
+245,Q2,Enterprise,Enterprise,Active,32897,11,39,56,9.0,Healthcare,Not Applicable,Enterprise CSM,1,South
+246,Q2,Enterprise,Enterprise,Active,65416,23,143,69,8.0,Ecommerce,Not Applicable,Enterprise CSM,2,East
+247,Q2,Mid-Market,Enterprise,Active,49436,19,57,47,6.7,Ecommerce,Not Applicable,Enterprise CSM,1,East
+248,Q2,Enterprise,Enterprise,Active,69205,21,139,44,7.4,Manufacturing,Not Applicable,Self-serve,4,South
+249,Q2,Mid-Market,Starter,Paused,3423,11,9,38,5.1,SaaS,Not Applicable,Self-serve,5,West
+250,Q2,SMB,Growth,Churned,13936,22,29,13,3.2,Media,No response,Self-serve,9,North
+251,Q2,SMB,Starter,Active,3915,9,9,70,6.1,Healthcare,Not Applicable,Self-serve,0,West
+252,Q2,Enterprise,Growth,Active,16198,25,6,64,6.8,SaaS,Not Applicable,Assisted,2,East
+253,Q2,Mid-Market,Growth,Active,16888,16,48,41,6.5,Media,Not Applicable,Assisted,0,West
+254,Q2,Mid-Market,Growth,Active,15180,31,20,46,6.0,EdTech,Not Applicable,Assisted,1,North
+255,Q2,Mid-Market,Starter,Active,2207,22,3,36,7.9,Healthcare,Not Applicable,Self-serve,4,North
+256,Q2,Enterprise,Growth,Paused,18441,23,18,32,6.7,Fintech,Not Applicable,Assisted,3,North
+257,Q2,SMB,Starter,Active,4078,21,5,46,7.0,Manufacturing,Not Applicable,Self-serve,1,East
+258,Q2,Mid-Market,Growth,Churned,11929,30,6,12,4.1,Healthcare,No response,Assisted,4,North
+259,Q2,SMB,Starter,Active,3384,11,4,54,8.7,SaaS,Not Applicable,Self-serve,0,North
+260,Q2,Enterprise,Growth,Active,9210,22,44,50,8.0,Manufacturing,Not Applicable,Self-serve,2,West
+261,Q2,Enterprise,Enterprise,Active,49271,27,104,68,6.3,Logistics,Not Applicable,Enterprise CSM,5,North
+262,Q2,Mid-Market,Growth,Churned,9644,12,28,23,5.7,Logistics,Competitor,Assisted,14,North
+263,Q2,Mid-Market,Growth,Active,17001,21,41,49,6.9,SaaS,Not Applicable,Self-serve,6,North
+264,Q2,Mid-Market,Starter,Active,4615,13,9,69,6.9,Logistics,Not Applicable,Self-serve,4,North
+265,Q2,SMB,Starter,Active,4346,29,5,68,7.9,Logistics,Not Applicable,Unknown,6,West
+266,Q2,SMB,Starter,Churned,4331,4,1,10,5.8,SaaS,Missing features,Self-serve,15,East
+267,Q2,Enterprise,Starter,Churned,3894,9,1,38,3.7,Logistics,Poor UX,Self-serve,8,East
+268,Q2,Mid-Market,Starter,Trial,4173,33,9,24,6.9,Fintech,Not Applicable,Self-serve,2,East
+269,Q2,Mid-Market,Growth,Churned,17711,27,16,6,4.3,Ecommerce,Missing features,Assisted,10,South
+270,Q2,SMB,Starter,Active,3705,7,3,56,6.7,Manufacturing,Not Applicable,Self-serve,4,West
+271,Q2,SMB,Starter,Trial,3839,30,8,35,5.8,Manufacturing,Not Applicable,Self-serve,6,West
+272,Q2,Mid-Market,Starter,Active,2272,36,9,47,8.3,Manufacturing,Not Applicable,Self-serve,1,West
+273,Q2,SMB,Starter,Active,3043,15,5,64,8.2,SaaS,Not Applicable,Self-serve,5,West
+274,Q2,Mid-Market,Growth,Active,11362,18,39,40,6.9,Manufacturing,Not Applicable,Assisted,3,East
+275,Q2,Enterprise,Growth,Churned,17113,12,38,37,4.5,Media,No response,Self-serve,12,East
+276,Q2,Mid-Market,Growth,Active,12074,11,48,74,7.4,Manufacturing,Not Applicable,Assisted,6,East
+277,Q2,Mid-Market,Enterprise,Churned,57763,30,54,13,5.3,SaaS,Price,Unknown,9,West
+278,Q2,SMB,Starter,Active,3079,34,3,64,8.8,Media,Not Applicable,Self-serve,3,East
+279,Q2,Enterprise,Enterprise,Active,35366,29,200,40,8.5,SaaS,Not Applicable,Enterprise CSM,1,East
+280,Q2,Mid-Market,Growth,Active,18463,19,42,38,6.5,Manufacturing,Not Applicable,Self-serve,2,West
+281,Q2,Enterprise,Enterprise,Churned,73640,24,65,38,4.0,Manufacturing,Competitor,Enterprise CSM,10,East
+282,Q2,SMB,Enterprise,Churned,41534,11,176,21,4.6,Manufacturing,Poor UX,Enterprise CSM,11,North
+283,Q2,Mid-Market,Starter,Active,4056,13,5,71,7.4,SaaS,Not Applicable,Self-serve,4,East
+284,Q2,Enterprise,Enterprise,Churned,37155,7,85,36,5.8,Ecommerce,Price,Enterprise CSM,15,East
+285,Q2,Enterprise,Growth,Active,16225,7,23,44,8.7,Fintech,Not Applicable,Self-serve,5,West
+286,Q2,Mid-Market,Growth,Active,12158,10,41,57,8.9,Ecommerce,Not Applicable,Self-serve,5,West
+287,Q2,Mid-Market,Growth,Paused,10785,26,28,26,7.4,Manufacturing,Not Applicable,Assisted,2,East
+288,Q2,Mid-Market,Starter,Active,2314,27,2,57,6.1,Ecommerce,Not Applicable,Self-serve,4,South
+289,Q2,Enterprise,Enterprise,Active,56223,3,40,54,8.6,Media,Not Applicable,Enterprise CSM,5,South
+290,Q2,Mid-Market,Growth,Active,15684,4,45,35,8.7,EdTech,Not Applicable,Self-serve,5,East
+291,Q2,SMB,Starter,Trial,3295,3,4,31,6.9,Logistics,Not Applicable,Self-serve,5,East
+292,Q2,SMB,Starter,Active,4438,25,2,64,6.9,EdTech,Not Applicable,Self-serve,5,East
+293,Q2,SMB,Starter,Trial,3354,17,9,39,7.8,Ecommerce,Not Applicable,Self-serve,2,South
+294,Q2,Enterprise,Enterprise,Active,62148,5,174,74,7.9,Ecommerce,Not Applicable,Self-serve,3,East
+295,Q2,Mid-Market,Growth,Trial,16888,18,15,24,7.3,SaaS,Not Applicable,Assisted,6,East
+296,Q2,Enterprise,Growth,Active,13476,17,7,75,6.2,Ecommerce,Not Applicable,Assisted,5,West
+297,Q2,Enterprise,Enterprise,Churned,71515,5,61,33,4.7,Media,No response,Enterprise CSM,9,East
+298,Q2,Mid-Market,Starter,Active,4676,32,4,51,7.9,Ecommerce,Not Applicable,Self-serve,4,East
+299,Q2,SMB,Enterprise,Active,49547,19,43,44,6.9,Ecommerce,Not Applicable,Enterprise CSM,6,West
+300,Q2,Enterprise,Enterprise,Paused,74186,29,162,33,5.3,Fintech,Not Applicable,Enterprise CSM,1,North
+301,Q2,SMB,Starter,Active,3969,34,4,69,6.1,Logistics,Not Applicable,Self-serve,3,West
+302,Q2,SMB,Starter,Active,2972,5,5,51,8.7,Fintech,Not Applicable,Self-serve,2,West
+303,Q2,Enterprise,Enterprise,Active,33448,35,105,49,7.3,Fintech,Not Applicable,Enterprise CSM,5,West
+304,Q2,SMB,Starter,Active,2337,15,7,39,7.8,Ecommerce,Not Applicable,Self-serve,0,West
+305,Q2,Enterprise,Starter,Paused,2645,22,2,24,7.7,SaaS,Not Applicable,Unknown,6,East
+306,Q2,SMB,Growth,Active,14723,31,37,71,7.0,Logistics,Not Applicable,Self-serve,2,East
+307,Q2,SMB,Enterprise,Active,57104,30,67,61,8.8,Manufacturing,Not Applicable,Enterprise CSM,3,North
+308,Q2,SMB,Growth,Churned,16775,18,15,5,3.1,Manufacturing,Poor UX,Assisted,13,East
+309,Q2,Mid-Market,Starter,Paused,2113,33,1,25,6.9,Logistics,Not Applicable,Self-serve,4,East
+310,Q2,Mid-Market,Growth,Churned,8729,23,33,26,6.9,Healthcare,Competitor,Self-serve,11,West
+311,Q2,Enterprise,Enterprise,Active,70208,24,200,62,8.3,Manufacturing,Not Applicable,Enterprise CSM,6,South
+312,Q2,Mid-Market,Enterprise,Trial,42215,21,81,18,5.8,Healthcare,Not Applicable,Enterprise CSM,6,West
+313,Q2,Mid-Market,Growth,Churned,18449,12,13,28,6.9,Healthcare,Price,Self-serve,9,South
+314,Q2,Mid-Market,Enterprise,Active,70239,11,37,46,6.0,SaaS,Not Applicable,Enterprise CSM,0,North
+315,Q2,Enterprise,Growth,Active,8115,26,39,54,7.1,Fintech,Not Applicable,Self-serve,4,East
+316,Q2,Enterprise,Enterprise,Active,30532,23,148,60,6.6,EdTech,Not Applicable,Unknown,3,East
+317,Q2,Enterprise,Enterprise,Active,76282,13,47,50,6.9,SaaS,Not Applicable,Enterprise CSM,4,North
+318,Q2,Enterprise,Enterprise,Paused,56801,34,54,25,5.2,Healthcare,Not Applicable,Enterprise CSM,4,North
+319,Q2,Enterprise,Growth,Active,11865,33,23,38,7.3,EdTech,Not Applicable,Assisted,4,East
+320,Q2,SMB,Growth,Trial,16142,9,19,47,7.2,EdTech,Not Applicable,Assisted,5,West
+321,Q2,Enterprise,Enterprise,Paused,47861,10,185,43,6.8,SaaS,Not Applicable,Enterprise CSM,2,East
+322,Q2,Mid-Market,Enterprise,Trial,51753,34,28,26,5.8,Manufacturing,Not Applicable,Enterprise CSM,4,South
+323,Q2,SMB,Starter,Active,3057,13,4,46,6.7,Manufacturing,Not Applicable,Self-serve,1,North
+324,Q2,Enterprise,Enterprise,Churned,54456,30,94,36,4.4,SaaS,Price,Self-serve,15,West
+325,Q2,SMB,Starter,Active,3925,15,8,52,8.6,Ecommerce,Not Applicable,Self-serve,0,East
+326,Q2,SMB,Starter,Paused,3304,27,9,31,5.6,Logistics,Not Applicable,Self-serve,1,West
+327,Q2,Mid-Market,Enterprise,Paused,55963,36,150,27,6.9,Ecommerce,Not Applicable,Enterprise CSM,1,West
+328,Q2,Enterprise,Enterprise,Active,65827,18,86,62,8.8,Logistics,Not Applicable,Enterprise CSM,3,West
+329,Q2,SMB,Starter,Active,3566,3,9,45,7.7,Logistics,Not Applicable,Self-serve,5,North
+330,Q2,Mid-Market,Starter,Active,3895,26,4,59,7.8,Logistics,Not Applicable,Unknown,0,East
+331,Q2,Mid-Market,Growth,Active,8279,17,33,44,7.2,EdTech,Not Applicable,Self-serve,1,East
+332,Q2,Enterprise,Enterprise,Active,58954,5,36,72,7.9,Healthcare,Not Applicable,Self-serve,3,North
+333,Q2,SMB,Starter,Active,4867,23,5,69,8.1,Media,Not Applicable,Self-serve,1,East
+334,Q2,Mid-Market,Enterprise,Churned,76794,28,48,14,5.3,Manufacturing,Missing features,Enterprise CSM,6,East
+335,Q2,Mid-Market,Enterprise,Active,72349,10,168,39,6.8,Media,Not Applicable,Enterprise CSM,3,North
+336,Q2,Enterprise,Enterprise,Active,53430,31,64,72,7.4,Healthcare,Not Applicable,Enterprise CSM,1,South
+337,Q2,Mid-Market,Starter,Active,2504,25,2,51,8.6,SaaS,Not Applicable,Self-serve,4,North
+338,Q2,SMB,Growth,Active,13439,33,44,46,6.9,SaaS,Not Applicable,Self-serve,1,East
+339,Q2,Mid-Market,Enterprise,Active,74281,11,186,51,7.1,Manufacturing,Not Applicable,Enterprise CSM,1,East
+340,Q2,Mid-Market,Growth,Churned,9039,26,27,16,4.6,Healthcare,Price,Assisted,10,North
+341,Q2,SMB,Starter,Paused,3058,26,3,48,8.0,Logistics,Not Applicable,Self-serve,5,East
+342,Q2,Mid-Market,Growth,Paused,17608,19,33,28,5.6,EdTech,Not Applicable,Self-serve,1,East
+343,Q2,Enterprise,Enterprise,Active,33987,6,123,44,6.9,Logistics,Not Applicable,Self-serve,0,West
+344,Q2,SMB,Starter,Trial,3919,34,8,43,6.7,Ecommerce,Not Applicable,Self-serve,3,East
+345,Q2,Mid-Market,Growth,Churned,13745,8,38,30,3.2,Ecommerce,Missing features,Assisted,11,South
+346,Q2,Mid-Market,Enterprise,Active,67235,16,181,69,6.8,Fintech,Not Applicable,Enterprise CSM,1,East
+347,Q2,Enterprise,Enterprise,Active,71422,32,102,56,7.8,Ecommerce,Not Applicable,Enterprise CSM,4,West
+348,Q2,Enterprise,Enterprise,Active,60103,13,189,69,8.2,SaaS,Not Applicable,Enterprise CSM,2,South
+349,Q2,Mid-Market,Enterprise,Active,63241,18,146,45,6.3,Media,Not Applicable,Enterprise CSM,3,North
+350,Q2,SMB,Starter,Churned,2311,26,1,17,6.9,Fintech,Competitor,Self-serve,10,East
+351,Q2,Mid-Market,Growth,Active,17938,34,8,67,6.7,Healthcare,Not Applicable,Self-serve,1,South
+352,Q2,Mid-Market,Starter,Active,3259,29,8,40,7.1,SaaS,Not Applicable,Self-serve,3,East
+353,Q2,Enterprise,Enterprise,Active,54034,35,73,63,8.8,EdTech,Not Applicable,Enterprise CSM,6,West
+354,Q2,SMB,Starter,Churned,4681,25,2,9,4.4,EdTech,Price,Self-serve,8,South
+355,Q2,Mid-Market,Growth,Churned,17971,6,32,10,3.2,EdTech,Price,Assisted,4,South
+356,Q2,Mid-Market,Growth,Active,13949,13,7,39,7.5,Media,Not Applicable,Assisted,1,West
+357,Q2,Mid-Market,Starter,Churned,2926,23,3,31,5.6,EdTech,No response,Self-serve,8,West
+358,Q2,SMB,Growth,Trial,10668,23,14,19,6.5,Media,Not Applicable,Assisted,2,West
+359,Q2,Enterprise,Growth,Churned,8560,21,36,16,3.9,Media,Missing features,Assisted,14,North
+360,Q2,Enterprise,Growth,Active,19298,33,35,67,8.3,Fintech,Not Applicable,Self-serve,6,South
+361,Q2,Enterprise,Enterprise,Active,57495,31,200,61,8.2,SaaS,Not Applicable,Enterprise CSM,5,West
+362,Q2,SMB,Starter,Active,4649,16,2,74,8.0,Ecommerce,Not Applicable,Self-serve,5,South
+363,Q2,Enterprise,Enterprise,Active,37577,27,117,66,6.2,Logistics,Not Applicable,Enterprise CSM,4,East
+364,Q2,SMB,Starter,Active,3362,3,5,61,7.2,Manufacturing,Not Applicable,Self-serve,4,North
+365,Q2,SMB,Growth,Active,11477,20,31,67,7.5,EdTech,Not Applicable,Self-serve,4,South
+366,Q2,Mid-Market,Growth,Active,12527,14,6,50,6.7,SaaS,Not Applicable,Assisted,3,South
+367,Q2,Mid-Market,Starter,Churned,4283,7,8,31,4.9,Fintech,Price,Self-serve,11,West
+368,Q2,SMB,Growth,Active,16298,15,49,68,8.2,Fintech,Not Applicable,Assisted,2,South
+369,Q2,Enterprise,Enterprise,Trial,79150,14,149,44,6.3,SaaS,Not Applicable,Enterprise CSM,5,East
+370,Q2,Enterprise,Enterprise,Active,36009,19,198,38,8.9,Manufacturing,Not Applicable,Enterprise CSM,0,East
+371,Q2,Mid-Market,Growth,Paused,9560,32,20,54,6.8,Media,Not Applicable,Assisted,3,East
+372,Q2,Enterprise,Enterprise,Trial,49624,19,124,23,7.5,Fintech,Not Applicable,Enterprise CSM,3,West
+373,Q2,Mid-Market,Starter,Active,4435,33,2,62,6.9,Media,Not Applicable,Self-serve,4,East
+374,Q2,Mid-Market,Growth,Active,13592,3,8,45,6.6,SaaS,Not Applicable,Self-serve,4,West
+375,Q2,SMB,Starter,Active,4363,20,3,66,9.0,Manufacturing,Not Applicable,Self-serve,3,East
+376,Q2,Enterprise,Enterprise,Active,31342,33,64,38,8.2,SaaS,Not Applicable,Enterprise CSM,2,West
+377,Q2,Enterprise,Enterprise,Active,31961,33,23,56,8.5,Media,Not Applicable,Enterprise CSM,6,West
+378,Q2,SMB,Starter,Churned,4545,16,4,38,4.5,Logistics,Not Applicable,Self-serve,5,South
+379,Q2,Mid-Market,Growth,Churned,12801,16,33,33,4.9,Ecommerce,Missing features,Self-serve,9,East
+380,Q2,SMB,Starter,Paused,3149,31,9,41,5.1,Manufacturing,Not Applicable,Self-serve,5,East
+381,Q2,SMB,Starter,Churned,3839,28,9,5,4.2,Logistics,Competitor,Self-serve,5,West
+382,Q2,Enterprise,Enterprise,Trial,72693,32,42,42,5.7,EdTech,Not Applicable,Enterprise CSM,0,East
+383,Q2,Enterprise,Growth,Active,10805,28,37,59,7.2,SaaS,Not Applicable,Self-serve,3,East
+384,Q2,Enterprise,Enterprise,Churned,52014,20,139,20,4.3,Logistics,Competitor,Enterprise CSM,3,East
+385,Q2,Enterprise,Enterprise,Active,58656,32,143,42,8.0,Fintech,Not Applicable,Enterprise CSM,1,East
+386,Q2,Enterprise,Enterprise,Active,15075,3,168,56,6.4,Ecommerce,Not Applicable,Enterprise CSM,5,West
+387,Q2,Mid-Market,Growth,Active,18786,5,46,55,7.4,EdTech,Not Applicable,Self-serve,5,West
+388,Q2,SMB,Starter,Active,4476,13,10,51,7.7,Fintech,Not Applicable,Self-serve,1,West
+389,Q2,Mid-Market,Enterprise,Active,62791,24,74,58,8.9,Healthcare,Not Applicable,Enterprise CSM,2,South
+390,Q2,Mid-Market,Growth,Active,18862,5,47,51,7.4,Media,Not Applicable,Self-serve,0,East
+391,Q2,SMB,Growth,Paused,10325,33,48,42,7.9,SaaS,Not Applicable,Assisted,6,West
+392,Q2,Mid-Market,Starter,Trial,3406,3,1,23,6.4,SaaS,Not Applicable,Self-serve,1,West
+393,Q2,SMB,Enterprise,Active,48899,27,99,70,8.6,Logistics,Not Applicable,Enterprise CSM,6,South
+394,Q2,Mid-Market,Growth,Churned,13407,18,23,35,4.7,Ecommerce,Poor UX,Assisted,12,East
+395,Q2,Enterprise,Growth,Churned,9877,13,31,17,6.9,Media,Competitor,Self-serve,8,East
+396,Q2,Mid-Market,Growth,Active,15497,30,7,51,8.1,Manufacturing,Not Applicable,Self-serve,0,North
+397,Q2,Mid-Market,Growth,Active,18484,34,39,46,8.5,Healthcare,Not Applicable,Assisted,2,North
+398,Q2,Mid-Market,Starter,Active,3302,11,5,36,7.1,Healthcare,Not Applicable,Self-serve,5,South
+399,Q2,Mid-Market,Enterprise,Active,36511,24,96,38,6.9,Ecommerce,Not Applicable,Self-serve,4,East
+400,Q2,Mid-Market,Enterprise,Paused,38128,8,167,20,8.0,EdTech,Not Applicable,Enterprise CSM,3,South
+401,Q2,SMB,Starter,Active,3513,3,8,38,6.9,Media,Not Applicable,Self-serve,5,West
+402,Q2,SMB,Starter,Active,3209,19,8,56,6.8,Manufacturing,Not Applicable,Self-serve,6,East
+403,Q2,Mid-Market,Enterprise,Active,56294,29,26,60,6.3,Ecommerce,Not Applicable,Self-serve,2,East
+404,Q2,Mid-Market,Starter,Trial,4733,15,3,49,5.2,Fintech,Not Applicable,Self-serve,1,East
+405,Q2,Enterprise,Enterprise,Active,70781,25,38,56,7.0,Fintech,Not Applicable,Enterprise CSM,5,West
+406,Q2,Enterprise,Enterprise,Active,39300,14,149,44,9.0,Ecommerce,Not Applicable,Enterprise CSM,3,West
+407,Q2,Enterprise,Starter,Paused,2661,17,6,16,7.5,Fintech,Not Applicable,Self-serve,3,West
+408,Q2,Enterprise,Growth,Trial,19218,23,43,39,6.8,Ecommerce,Not Applicable,Self-serve,5,West
+409,Q2,Mid-Market,Starter,Active,3851,6,3,54,8.8,SaaS,Not Applicable,Self-serve,2,East
+410,Q2,SMB,Starter,Trial,2742,34,2,53,5.1,Ecommerce,Not Applicable,Self-serve,2,South
+411,Q2,SMB,Starter,Active,2472,11,7,70,8.9,Media,Not Applicable,Self-serve,5,North
+412,Q2,Enterprise,Starter,Active,3938,3,1,43,6.8,Healthcare,Not Applicable,Self-serve,5,South
+413,Q2,SMB,Starter,Trial,4185,31,3,43,6.9,Media,Not Applicable,Self-serve,2,East
+414,Q2,Enterprise,Enterprise,Active,31275,27,105,55,8.8,Manufacturing,Not Applicable,Enterprise CSM,0,West
+415,Q2,Mid-Market,Starter,Trial,3623,4,10,40,7.6,Fintech,Not Applicable,Self-serve,4,South
+416,Q2,SMB,Growth,Active,15816,28,44,54,6.2,Media,Not Applicable,Self-serve,3,West
+417,Q2,Enterprise,Growth,Churned,9513,34,15,18,5.3,EdTech,Missing features,Self-serve,12,North
+418,Q2,SMB,Growth,Active,17488,13,48,70,8.8,SaaS,Not Applicable,Self-serve,3,North
+419,Q2,Enterprise,Enterprise,Active,54020,17,30,47,7.2,SaaS,Not Applicable,Enterprise CSM,0,North
+420,Q2,Mid-Market,Enterprise,Active,37841,3,77,54,8.5,Healthcare,Not Applicable,Unknown,0,East
+421,Q2,Enterprise,Enterprise,Active,56710,35,102,40,8.2,Logistics,Not Applicable,Enterprise CSM,6,South
+422,Q2,Mid-Market,Growth,Active,18535,27,10,46,8.0,Healthcare,Not Applicable,Assisted,2,East
+423,Q2,Mid-Market,Growth,Active,9957,18,25,41,8.6,SaaS,Not Applicable,Self-serve,6,West
+424,Q2,Mid-Market,Growth,Paused,12642,24,10,17,8.0,Manufacturing,Not Applicable,Self-serve,6,West
+425,Q2,Mid-Market,Growth,Active,11208,18,9,68,9.0,Fintech,Not Applicable,Assisted,4,East
+426,Q2,Enterprise,Growth,Active,17793,32,42,59,8.5,SaaS,Not Applicable,Assisted,0,West
+427,Q2,Enterprise,Enterprise,Active,55792,3,124,51,6.5,Healthcare,Not Applicable,Enterprise CSM,4,West
+428,Q2,Mid-Market,Enterprise,Trial,34477,33,185,30,6.9,EdTech,Not Applicable,Enterprise CSM,2,West
+429,Q2,Enterprise,Enterprise,Active,34730,13,159,51,6.6,SaaS,Not Applicable,Enterprise CSM,2,East
+430,Q2,SMB,Enterprise,Paused,71329,8,93,27,5.4,Fintech,Not Applicable,Enterprise CSM,6,South
+431,Q2,SMB,Starter,Active,2801,3,5,43,7.1,SaaS,Not Applicable,Unknown,6,South
+432,Q2,Mid-Market,Enterprise,Active,46125,4,96,62,6.9,EdTech,Not Applicable,Self-serve,4,South
+433,Q2,SMB,Starter,Active,4276,27,2,72,7.7,Manufacturing,Not Applicable,Self-serve,4,East
+434,Q2,SMB,Starter,Churned,2433,33,3,29,5.0,Healthcare,Price,Self-serve,11,West
+435,Q2,SMB,Growth,Trial,8772,13,22,34,7.6,EdTech,Not Applicable,Self-serve,4,West
+436,Q2,Mid-Market,Growth,Active,8855,17,37,60,8.4,Fintech,Not Applicable,Self-serve,5,East
+437,Q2,Enterprise,Enterprise,Churned,50092,4,51,17,3.9,Logistics,Competitor,Enterprise CSM,12,East
+438,Q2,SMB,Starter,Active,4572,3,8,73,6.8,Healthcare,Not Applicable,Self-serve,3,North
+439,Q2,SMB,Growth,Active,8052,14,10,62,7.8,Media,Not Applicable,Assisted,2,East
+440,Q2,Enterprise,Growth,Active,16388,21,15,68,8.1,Logistics,Not Applicable,Assisted,3,North
+441,Q2,Enterprise,Enterprise,Paused,43741,30,136,26,7.2,Logistics,Not Applicable,Enterprise CSM,1,South
+442,Q2,Enterprise,Enterprise,Active,31111,7,32,57,8.6,Logistics,Not Applicable,Enterprise CSM,0,North
+443,Q2,Enterprise,Enterprise,Trial,50421,2,122,29,7.5,Logistics,Not Applicable,Self-serve,1,East
+444,Q2,Mid-Market,Enterprise,Churned,77522,31,148,23,4.4,Manufacturing,Competitor,Enterprise CSM,9,North
+445,Q2,SMB,Growth,Active,12908,9,50,46,8.5,EdTech,Not Applicable,Self-serve,6,West
+446,Q2,Enterprise,Enterprise,Active,43907,28,68,44,7.9,Manufacturing,Not Applicable,Enterprise CSM,4,East
+447,Q2,Mid-Market,Starter,Paused,2897,15,4,45,7.0,Media,Not Applicable,Self-serve,0,South
+448,Q2,Mid-Market,Starter,Churned,2736,3,3,28,3.2,Logistics,Price,Self-serve,5,West
+449,Q2,SMB,Starter,Churned,3429,27,7,23,5.8,Fintech,Price,Self-serve,8,West
+450,Q2,Enterprise,Enterprise,Active,69756,20,40,39,6.3,Logistics,Not Applicable,Enterprise CSM,1,East
+451,Q2,Mid-Market,Enterprise,Churned,40086,25,146,35,3.7,Ecommerce,Competitor,Enterprise CSM,10,South
+452,Q2,SMB,Starter,Churned,4680,6,10,38,5.0,SaaS,Price,Self-serve,15,South
+453,Q2,Mid-Market,Growth,Churned,19731,3,31,5,6.9,Ecommerce,Missing features,Assisted,10,South
+454,Q2,Enterprise,Enterprise,Active,44516,25,117,52,8.4,Manufacturing,Not Applicable,Unknown,5,West
+455,Q2,Mid-Market,Growth,Active,10405,15,35,37,6.9,Ecommerce,Not Applicable,Assisted,2,West
+456,Q2,SMB,Starter,Active,3495,19,6,60,8.3,Healthcare,Not Applicable,Self-serve,2,North
+457,Q2,SMB,Enterprise,Active,15075,10,105,39,8.8,SaaS,Not Applicable,Enterprise CSM,3,East
+458,Q2,Mid-Market,Enterprise,Active,78831,3,62,43,8.9,Logistics,Not Applicable,Enterprise CSM,6,West
+459,Q2,Enterprise,Enterprise,Active,56033,14,140,64,8.7,Logistics,Not Applicable,Unknown,5,West
+460,Q2,Mid-Market,Starter,Active,2855,35,5,73,6.1,Logistics,Not Applicable,Self-serve,0,South
+461,Q2,Mid-Market,Enterprise,Churned,53631,33,148,15,4.2,SaaS,Budget cut,Enterprise CSM,12,South
+462,Q2,SMB,Growth,Active,10036,4,41,52,6.9,SaaS,Not Applicable,Unknown,6,East
+463,Q2,Enterprise,Enterprise,Active,78317,6,119,70,8.5,Fintech,Not Applicable,Enterprise CSM,6,West
+464,Q2,Enterprise,Growth,Active,15430,15,41,75,8.3,Fintech,Not Applicable,Self-serve,0,North
+465,Q2,Enterprise,Growth,Active,10904,6,41,47,8.8,EdTech,Not Applicable,Assisted,2,South
+466,Q2,Enterprise,Enterprise,Active,72930,35,162,38,8.6,EdTech,Not Applicable,Enterprise CSM,3,West
+467,Q2,Mid-Market,Growth,Paused,18230,21,12,49,6.9,SaaS,Not Applicable,Self-serve,1,North
+468,Q2,Mid-Market,Enterprise,Active,64128,6,82,73,7.3,Ecommerce,Not Applicable,Enterprise CSM,2,North
+469,Q2,SMB,Growth,Paused,8454,12,35,22,5.3,Logistics,Not Applicable,Self-serve,4,East
+470,Q2,Enterprise,Enterprise,Active,72608,20,199,66,7.8,EdTech,Not Applicable,Enterprise CSM,0,East
+471,Q2,Mid-Market,Growth,Active,18215,4,9,57,8.8,Healthcare,Not Applicable,Self-serve,3,North
+472,Q2,Enterprise,Enterprise,Active,57691,9,195,73,6.0,Ecommerce,Not Applicable,Enterprise CSM,2,North
+473,Q2,Mid-Market,Growth,Active,18788,9,39,36,8.6,Manufacturing,Not Applicable,Self-serve,6,West
+474,Q2,SMB,Starter,Active,4763,15,7,72,8.2,Media,Not Applicable,Self-serve,3,West
+475,Q2,Enterprise,Enterprise,Active,57061,7,172,67,6.5,EdTech,Not Applicable,Enterprise CSM,3,East
+476,Q2,SMB,Starter,Active,2290,23,6,62,6.3,SaaS,Not Applicable,Self-serve,5,East
+477,Q2,SMB,Starter,Churned,2587,15,9,39,6.9,Logistics,Budget cut,Unknown,13,East
+478,Q2,Mid-Market,Enterprise,Active,51964,22,59,45,7.2,EdTech,Not Applicable,Enterprise CSM,3,South
+479,Q2,Enterprise,Enterprise,Active,49764,14,140,70,8.6,Manufacturing,Not Applicable,Enterprise CSM,3,East
+480,Q2,Mid-Market,Growth,Active,14525,23,5,54,7.3,Media,Not Applicable,Assisted,2,North
+481,Q2,Enterprise,Enterprise,Churned,74909,27,59,27,3.7,Logistics,Competitor,Enterprise CSM,13,West
+482,Q2,Enterprise,Growth,Churned,8745,12,8,26,6.9,Healthcare,Missing features,Self-serve,5,South
+483,Q2,Enterprise,Enterprise,Active,30083,7,65,42,6.9,EdTech,Not Applicable,Enterprise CSM,3,South
+484,Q2,Mid-Market,Starter,Trial,3535,27,5,23,6.1,Manufacturing,Not Applicable,Self-serve,3,East
+485,Q2,SMB,Growth,Active,9853,9,28,35,7.3,Media,Not Applicable,Self-serve,2,East
+486,Q2,Mid-Market,Growth,Trial,14881,7,50,34,8.0,Manufacturing,Not Applicable,Self-serve,4,North
+487,Q2,Mid-Market,Growth,Active,16096,24,45,40,6.9,Media,Not Applicable,Assisted,3,North
+488,Q2,SMB,Growth,Active,12831,30,16,56,7.8,SaaS,Not Applicable,Assisted,2,South
+489,Q2,Mid-Market,Growth,Active,18823,22,47,48,6.8,Media,Not Applicable,Assisted,2,West
+490,Q2,SMB,Starter,Active,2956,20,2,47,6.3,Logistics,Not Applicable,Self-serve,4,West
+491,Q2,Mid-Market,Growth,Active,10895,7,21,46,6.1,Fintech,Not Applicable,Self-serve,0,South
+492,Q2,Enterprise,Enterprise,Churned,31683,24,175,36,4.5,Logistics,Missing features,Self-serve,7,South
+493,Q2,Mid-Market,Growth,Active,13985,3,6,39,6.7,Logistics,Not Applicable,Self-serve,2,West
+494,Q2,Enterprise,Enterprise,Active,38789,13,185,38,7.5,EdTech,Not Applicable,Enterprise CSM,5,North
+495,Q2,SMB,Starter,Active,2585,22,6,36,6.4,Healthcare,Not Applicable,Self-serve,3,East
+496,Q2,SMB,Starter,Active,2676,9,9,49,7.3,Logistics,Not Applicable,Self-serve,1,North
+497,Q2,Mid-Market,Enterprise,Active,76762,35,164,57,6.6,SaaS,Not Applicable,Enterprise CSM,1,East
+498,Q2,Enterprise,Enterprise,Active,68640,36,90,56,6.9,Logistics,Not Applicable,Enterprise CSM,2,East
+499,Q2,Enterprise,Enterprise,Churned,62085,32,84,22,4.5,SaaS,Competitor,Enterprise CSM,8,East
+500,Q2,Enterprise,Enterprise,Active,71864,11,75,62,8.0,SaaS,Not Applicable,Enterprise CSM,3,West
+501,Q2,Mid-Market,Growth,Churned,15495,33,9,21,4.6,Media,Missing features,Self-serve,10,West
+502,Q2,Mid-Market,Growth,Churned,17441,31,48,30,4.1,Healthcare,Poor UX,Self-serve,12,South
+503,Q2,Enterprise,Enterprise,Active,34031,33,144,66,6.9,SaaS,Not Applicable,Enterprise CSM,6,South
+504,Q2,SMB,Starter,Churned,3626,31,7,31,4.6,Logistics,Competitor,Self-serve,14,East
+505,Q2,Enterprise,Enterprise,Active,78778,12,114,69,8.3,EdTech,Not Applicable,Enterprise CSM,6,West
+506,Q2,Enterprise,Enterprise,Churned,58689,29,98,5,5.8,Manufacturing,Missing features,Enterprise CSM,13,West
+507,Q2,Mid-Market,Starter,Churned,4312,27,9,30,4.6,Healthcare,Not Applicable,Self-serve,9,North
+508,Q2,Mid-Market,Growth,Active,18604,31,27,54,8.0,EdTech,Not Applicable,Assisted,5,North
+509,Q2,SMB,Starter,Active,2218,11,3,64,8.0,EdTech,Not Applicable,Self-serve,4,North
+510,Q2,Mid-Market,Growth,Active,8264,21,27,51,8.0,Media,Not Applicable,Assisted,2,East
+511,Q3,Mid-Market,Growth,Churned,14068,26,44,20,3.1,Logistics,Poor UX,Assisted,5,East
+512,Q3,Mid-Market,Growth,Churned,15764,9,39,24,6.0,Manufacturing,Poor UX,Self-serve,3,West
+513,Q3,Enterprise,Enterprise,Active,68394,17,86,41,6.9,Manufacturing,Not Applicable,Unknown,6,North
+514,Q3,Mid-Market,Growth,Active,10660,7,8,36,8.6,Fintech,Not Applicable,Self-serve,2,West
+515,Q3,SMB,Growth,Active,15080,20,25,51,7.8,Fintech,Not Applicable,Self-serve,0,North
+516,Q3,SMB,Growth,Active,9174,7,44,66,6.9,Ecommerce,Not Applicable,Self-serve,6,West
+517,Q3,Enterprise,Growth,Churned,15546,22,18,9,3.9,SaaS,Missing features,Assisted,7,North
+518,Q3,Mid-Market,Enterprise,Active,63812,8,72,68,6.9,Healthcare,Not Applicable,Enterprise CSM,2,South
+519,Q3,Enterprise,Enterprise,Active,45427,34,91,47,7.8,Logistics,Not Applicable,Enterprise CSM,3,East
+520,Q3,SMB,Growth,Paused,9631,11,13,28,7.1,Fintech,Not Applicable,Self-serve,1,South
+521,Q3,Mid-Market,Growth,Active,8198,14,34,72,7.3,SaaS,Not Applicable,Assisted,1,East
+522,Q3,Mid-Market,Growth,Trial,13137,21,11,50,7.6,Media,Not Applicable,Assisted,5,East
+523,Q3,Mid-Market,Starter,Churned,4576,33,5,19,3.6,Healthcare,Poor UX,Self-serve,6,East
+524,Q3,Mid-Market,Enterprise,Active,57250,22,157,46,6.7,SaaS,Not Applicable,Enterprise CSM,2,East
+525,Q3,Enterprise,Growth,Active,10055,14,44,62,6.6,Media,Not Applicable,Assisted,1,North
+526,Q3,Enterprise,Enterprise,Churned,49100,12,82,38,3.4,Ecommerce,Budget cut,Enterprise CSM,6,South
+527,Q3,Enterprise,Growth,Trial,17295,26,22,24,5.7,SaaS,Not Applicable,Self-serve,2,West
+528,Q3,SMB,Growth,Active,19314,19,21,51,8.0,Fintech,Not Applicable,Assisted,6,South
+529,Q3,Mid-Market,Growth,Churned,10088,16,9,23,4.8,Logistics,Price,Self-serve,6,East
+530,Q3,Mid-Market,Enterprise,Active,49992,5,133,74,8.6,EdTech,Not Applicable,Enterprise CSM,1,East
+531,Q3,Enterprise,Growth,Active,10399,18,30,70,8.1,Fintech,Not Applicable,Assisted,4,East
+532,Q3,Enterprise,Enterprise,Active,68015,6,103,75,6.1,EdTech,Not Applicable,Enterprise CSM,4,West
+533,Q3,Mid-Market,Growth,Active,10677,26,46,38,6.4,Healthcare,Not Applicable,Assisted,4,West
+534,Q3,Enterprise,Enterprise,Trial,30252,22,74,17,5.2,Logistics,Not Applicable,Enterprise CSM,1,East
+535,Q3,SMB,Starter,Trial,3085,26,3,44,6.3,EdTech,Not Applicable,Self-serve,4,West
+536,Q3,SMB,Starter,Active,2487,8,6,71,6.6,SaaS,Not Applicable,Self-serve,1,North
+537,Q3,SMB,Growth,Paused,11616,31,21,39,6.1,EdTech,Not Applicable,Self-serve,2,South
+538,Q3,Mid-Market,Starter,Active,15075,15,5,43,7.9,Logistics,Not Applicable,Self-serve,3,South
+539,Q3,Mid-Market,Growth,Active,13715,28,9,63,7.9,Media,Not Applicable,Self-serve,4,South
+540,Q3,SMB,Enterprise,Active,55382,26,33,52,7.5,Media,Not Applicable,Enterprise CSM,4,East
+541,Q3,Enterprise,Enterprise,Churned,38720,8,85,26,3.9,Fintech,Competitor,Enterprise CSM,6,West
+542,Q3,Enterprise,Growth,Active,8679,31,22,47,7.9,Logistics,Not Applicable,Assisted,2,South
+543,Q3,Mid-Market,Enterprise,Paused,33604,32,191,17,7.4,SaaS,Not Applicable,Enterprise CSM,2,West
+544,Q3,Mid-Market,Enterprise,Active,71272,23,101,60,7.1,Fintech,Not Applicable,Self-serve,5,North
+545,Q3,SMB,Starter,Churned,4074,25,8,18,3.1,Logistics,Price,Unknown,6,South
+546,Q3,Enterprise,Starter,Active,2407,26,3,39,7.0,Logistics,Not Applicable,Self-serve,0,North
+547,Q3,Mid-Market,Starter,Active,3652,24,3,39,8.7,Manufacturing,Not Applicable,Self-serve,2,West
+548,Q3,Enterprise,Enterprise,Churned,46485,30,47,34,6.9,EdTech,Missing features,Enterprise CSM,7,West
+549,Q3,Mid-Market,Growth,Active,9353,10,31,60,8.7,Fintech,Not Applicable,Self-serve,3,East
+550,Q3,Mid-Market,Growth,Active,13889,19,47,46,8.6,Fintech,Not Applicable,Self-serve,4,South
+551,Q3,Mid-Market,Growth,Active,11578,27,28,42,6.5,Manufacturing,Not Applicable,Self-serve,5,West
+552,Q3,SMB,Starter,Active,4752,19,9,67,7.2,EdTech,Not Applicable,Self-serve,5,East
+553,Q3,Enterprise,Enterprise,Active,78134,7,154,64,6.3,Healthcare,Not Applicable,Enterprise CSM,1,North
+554,Q3,Mid-Market,Enterprise,Paused,72553,19,22,20,7.8,Logistics,Not Applicable,Enterprise CSM,5,East
+555,Q3,SMB,Starter,Churned,2012,22,4,40,4.1,Fintech,Missing features,Self-serve,8,North
+556,Q3,Enterprise,Growth,Active,19838,9,27,46,7.0,Media,Not Applicable,Self-serve,0,West
+557,Q3,Mid-Market,Growth,Trial,8788,4,28,45,6.8,Manufacturing,Not Applicable,Self-serve,6,East
+558,Q3,SMB,Starter,Active,4216,18,4,58,7.5,Logistics,Not Applicable,Self-serve,5,North
+559,Q3,Enterprise,Enterprise,Trial,71719,12,163,16,6.9,EdTech,Not Applicable,Enterprise CSM,4,West
+560,Q3,Enterprise,Growth,Active,18255,18,14,52,8.0,Ecommerce,Not Applicable,Self-serve,2,South
+561,Q3,Mid-Market,Starter,Active,2816,9,10,39,6.3,Healthcare,Not Applicable,Self-serve,3,South
+562,Q3,Enterprise,Growth,Active,11057,2,32,57,8.7,Ecommerce,Not Applicable,Assisted,4,South
+563,Q3,Mid-Market,Enterprise,Churned,34625,3,196,24,6.9,Ecommerce,Competitor,Enterprise CSM,10,East
+564,Q3,Enterprise,Enterprise,Churned,76004,28,80,19,5.6,Manufacturing,Competitor,Enterprise CSM,6,West
+565,Q3,Enterprise,Enterprise,Active,54235,32,126,47,7.7,SaaS,Not Applicable,Self-serve,1,North
+566,Q3,SMB,Starter,Trial,2921,27,3,28,6.9,Ecommerce,Not Applicable,Self-serve,0,East
+567,Q3,SMB,Growth,Churned,12300,8,34,25,5.9,Logistics,Price,Assisted,7,East
+568,Q3,Mid-Market,Growth,Active,19250,30,41,48,7.9,Fintech,Not Applicable,Self-serve,2,North
+569,Q3,SMB,Growth,Active,15636,20,7,61,8.9,Fintech,Not Applicable,Assisted,2,South
+570,Q3,Enterprise,Enterprise,Churned,62106,7,183,28,3.5,Fintech,Missing features,Unknown,13,North
+571,Q3,Mid-Market,Enterprise,Churned,47794,29,147,34,5.2,EdTech,Budget cut,Enterprise CSM,8,East
+572,Q3,SMB,Starter,Paused,4083,5,7,50,5.2,SaaS,Not Applicable,Self-serve,0,North
+573,Q3,Enterprise,Enterprise,Churned,67371,5,115,6,3.3,Ecommerce,Poor UX,Enterprise CSM,0,East
+574,Q3,Enterprise,Starter,Churned,3177,2,9,34,6.9,SaaS,Missing features,Self-serve,7,North
+575,Q3,SMB,Starter,Churned,2858,21,1,36,6.9,Media,Poor UX,Self-serve,11,South
+576,Q3,SMB,Starter,Paused,4112,15,2,50,6.9,SaaS,Not Applicable,Self-serve,4,East
+577,Q3,SMB,Starter,Active,4175,6,8,43,7.6,Fintech,Not Applicable,Self-serve,4,South
+578,Q3,Enterprise,Enterprise,Churned,78112,11,127,27,3.6,Healthcare,Missing features,Enterprise CSM,6,South
+579,Q3,Enterprise,Starter,Trial,3086,34,9,31,7.6,Media,Not Applicable,Self-serve,2,West
+580,Q3,SMB,Starter,Paused,4643,20,7,34,5.3,SaaS,Not Applicable,Self-serve,2,East
+581,Q3,Enterprise,Enterprise,Active,38252,6,108,73,7.7,Ecommerce,Not Applicable,Enterprise CSM,5,East
+582,Q3,Enterprise,Enterprise,Active,72555,4,181,63,6.9,EdTech,Not Applicable,Enterprise CSM,5,North
+583,Q3,SMB,Starter,Active,3167,24,9,62,8.3,Media,Not Applicable,Self-serve,0,East
+584,Q3,SMB,Starter,Paused,2360,31,3,23,5.4,Manufacturing,Not Applicable,Self-serve,4,North
+585,Q3,Enterprise,Enterprise,Trial,65691,14,151,51,7.8,Ecommerce,Not Applicable,Unknown,0,South
+586,Q3,Mid-Market,Growth,Active,16111,11,25,62,8.7,EdTech,Not Applicable,Assisted,0,South
+587,Q3,Mid-Market,Growth,Active,19583,18,49,43,8.8,Fintech,Not Applicable,Self-serve,1,West
+588,Q3,Enterprise,Enterprise,Active,72360,25,66,66,7.9,Logistics,Not Applicable,Enterprise CSM,1,West
+589,Q3,Enterprise,Enterprise,Active,53234,32,183,65,7.3,Fintech,Not Applicable,Self-serve,1,East
+590,Q3,Mid-Market,Enterprise,Active,32616,11,130,54,8.2,Media,Not Applicable,Enterprise CSM,1,North
+591,Q3,Mid-Market,Enterprise,Active,77843,34,86,43,7.3,Healthcare,Not Applicable,Enterprise CSM,2,South
+592,Q3,SMB,Growth,Trial,14118,11,5,24,7.8,EdTech,Not Applicable,Assisted,1,South
+593,Q3,Enterprise,Growth,Paused,8597,28,34,54,7.0,Fintech,Not Applicable,Assisted,2,East
+594,Q3,Mid-Market,Starter,Active,3922,20,9,45,6.2,EdTech,Not Applicable,Self-serve,4,East
+595,Q3,Enterprise,Enterprise,Active,72119,12,38,59,7.4,Logistics,Not Applicable,Enterprise CSM,2,North
+596,Q3,Enterprise,Growth,Active,8050,25,32,72,8.8,EdTech,Not Applicable,Self-serve,4,East
+597,Q3,SMB,Starter,Active,4431,28,9,65,6.3,Fintech,Not Applicable,Self-serve,0,East
+598,Q3,SMB,Growth,Churned,12243,9,44,9,5.1,Manufacturing,Price,Unknown,6,North
+599,Q3,Mid-Market,Growth,Paused,8611,13,45,23,7.9,Media,Not Applicable,Self-serve,3,East
+600,Q3,Mid-Market,Growth,Trial,10014,31,27,46,7.9,Ecommerce,Not Applicable,Self-serve,2,South
+601,Q3,SMB,Growth,Churned,17511,15,40,26,5.2,Ecommerce,Budget cut,Self-serve,4,West
+602,Q3,Enterprise,Enterprise,Churned,65779,8,95,7,5.4,Ecommerce,Poor UX,Enterprise CSM,13,North
+603,Q3,SMB,Starter,Trial,15075,20,2,44,5.3,SaaS,Not Applicable,Self-serve,3,East
+604,Q3,SMB,Growth,Active,8883,34,25,35,6.6,Ecommerce,Not Applicable,Self-serve,1,East
+605,Q3,Enterprise,Enterprise,Trial,50110,28,140,41,6.7,Logistics,Not Applicable,Enterprise CSM,2,South
+606,Q3,SMB,Growth,Active,17945,36,35,36,7.9,EdTech,Not Applicable,Assisted,5,West
+607,Q3,Enterprise,Enterprise,Active,47502,2,200,36,8.1,EdTech,Not Applicable,Enterprise CSM,2,West
+608,Q3,Mid-Market,Starter,Active,2320,5,9,35,6.3,EdTech,Not Applicable,Self-serve,5,South
+609,Q3,Enterprise,Enterprise,Active,34225,8,79,63,7.9,Logistics,Not Applicable,Enterprise CSM,3,South
+610,Q3,Mid-Market,Growth,Churned,12335,29,11,18,3.2,Manufacturing,Budget cut,Assisted,14,East
+611,Q3,Mid-Market,Growth,Trial,17831,4,37,48,6.1,Healthcare,Not Applicable,Self-serve,5,South
+612,Q3,Enterprise,Growth,Paused,14915,25,43,29,6.9,Fintech,Not Applicable,Self-serve,6,South
+613,Q3,Mid-Market,Growth,Active,9302,25,21,48,9.0,Fintech,Not Applicable,Self-serve,2,East
+614,Q3,Mid-Market,Growth,Active,16699,11,29,68,7.4,Manufacturing,Not Applicable,Self-serve,2,East
+615,Q3,Mid-Market,Enterprise,Active,50266,19,185,45,8.0,SaaS,Not Applicable,Enterprise CSM,5,North
+616,Q3,SMB,Starter,Churned,2591,23,6,26,4.5,Media,Price,Self-serve,11,East
+617,Q3,Enterprise,Growth,Active,18617,9,46,51,8.1,Healthcare,Not Applicable,Self-serve,0,East
+618,Q3,SMB,Starter,Churned,3451,25,6,22,3.4,Media,Price,Self-serve,9,West
+619,Q3,Enterprise,Enterprise,Churned,47445,9,78,7,4.2,Fintech,Competitor,Enterprise CSM,10,East
+620,Q3,SMB,Growth,Trial,18008,28,48,43,5.8,Manufacturing,Not Applicable,Unknown,1,North
+621,Q3,Enterprise,Enterprise,Active,60100,15,154,70,8.8,SaaS,Not Applicable,Enterprise CSM,3,South
+622,Q3,SMB,Growth,Active,17110,30,26,36,7.3,Fintech,Not Applicable,Assisted,1,West
+623,Q3,Mid-Market,Growth,Active,13628,17,26,44,6.5,Logistics,Not Applicable,Self-serve,6,South
+624,Q3,Enterprise,Growth,Trial,15106,9,20,51,5.4,Fintech,Not Applicable,Assisted,4,East
+625,Q3,Mid-Market,Starter,Active,3235,5,2,54,6.1,Ecommerce,Not Applicable,Self-serve,2,North
+626,Q3,Mid-Market,Enterprise,Churned,41717,16,29,18,5.6,Ecommerce,Missing features,Enterprise CSM,7,East
+627,Q3,SMB,Starter,Active,3379,34,6,73,7.7,EdTech,Not Applicable,Self-serve,1,West
+628,Q3,Mid-Market,Starter,Active,2703,3,3,71,7.8,EdTech,Not Applicable,Self-serve,6,West
+629,Q3,Mid-Market,Growth,Active,11201,24,14,50,6.0,Healthcare,Not Applicable,Assisted,0,South
+630,Q3,SMB,Growth,Active,19173,34,10,54,7.0,EdTech,Not Applicable,Assisted,4,West
+631,Q3,Enterprise,Enterprise,Churned,75061,31,135,15,5.3,SaaS,Missing features,Enterprise CSM,13,North
+632,Q3,SMB,Starter,Active,4247,21,7,38,6.5,Logistics,Not Applicable,Self-serve,5,North
+633,Q3,SMB,Starter,Active,3374,4,6,42,7.1,Manufacturing,Not Applicable,Self-serve,4,South
+634,Q3,SMB,Growth,Active,15808,25,29,47,7.7,Healthcare,Not Applicable,Assisted,3,South
+635,Q3,Mid-Market,Growth,Active,16888,7,49,42,6.2,Media,Not Applicable,Self-serve,2,North
+636,Q3,SMB,Growth,Churned,10015,5,31,11,4.0,Fintech,Price,Assisted,15,East
+637,Q3,SMB,Starter,Churned,3937,35,3,12,4.2,Ecommerce,Competitor,Self-serve,14,North
+638,Q3,SMB,Enterprise,Trial,38953,5,121,53,5.5,SaaS,Not Applicable,Enterprise CSM,6,East
+639,Q3,Mid-Market,Enterprise,Active,44919,23,187,74,6.9,SaaS,Not Applicable,Enterprise CSM,0,South
+640,Q3,Mid-Market,Starter,Active,2462,13,5,42,7.3,Logistics,Not Applicable,Self-serve,1,West
+641,Q3,Enterprise,Starter,Active,2374,16,8,64,6.2,Fintech,Not Applicable,Self-serve,2,East
+642,Q3,Enterprise,Enterprise,Churned,60225,35,134,14,4.9,Manufacturing,No response,Enterprise CSM,5,East
+643,Q3,Enterprise,Enterprise,Churned,68146,7,141,16,4.4,Media,Budget cut,Enterprise CSM,4,South
+644,Q3,Enterprise,Enterprise,Active,47343,3,135,61,7.6,EdTech,Not Applicable,Enterprise CSM,1,East
+645,Q3,Enterprise,Starter,Trial,3039,15,6,18,6.7,SaaS,Not Applicable,Self-serve,5,North
+646,Q3,SMB,Growth,Trial,9638,15,5,41,5.4,Fintech,Not Applicable,Assisted,2,North
+647,Q3,Mid-Market,Growth,Active,8728,4,13,37,8.9,Media,Not Applicable,Assisted,1,South
+648,Q3,Mid-Market,Growth,Paused,16698,23,30,53,6.8,Manufacturing,Not Applicable,Assisted,2,South
+649,Q3,Mid-Market,Starter,Paused,4458,35,4,41,7.2,Ecommerce,Not Applicable,Self-serve,5,North
+650,Q3,Mid-Market,Growth,Churned,14243,11,11,15,6.9,SaaS,Poor UX,Self-serve,9,South
+651,Q3,SMB,Starter,Paused,3665,26,2,50,6.9,EdTech,Not Applicable,Self-serve,5,North
+652,Q3,Mid-Market,Growth,Paused,14611,3,28,53,6.3,Media,Not Applicable,Self-serve,4,East
+653,Q3,SMB,Starter,Churned,2220,26,3,27,4.0,SaaS,Poor UX,Self-serve,10,East
+654,Q3,SMB,Starter,Active,3926,36,4,51,8.7,SaaS,Not Applicable,Self-serve,0,North
+655,Q3,Mid-Market,Enterprise,Churned,61495,5,75,8,4.8,Fintech,Price,Self-serve,6,South
+656,Q3,Enterprise,Enterprise,Active,33592,33,38,69,8.4,Manufacturing,Not Applicable,Enterprise CSM,1,North
+657,Q3,Enterprise,Growth,Trial,11950,29,41,53,6.0,Manufacturing,Not Applicable,Self-serve,2,West
+658,Q3,SMB,Starter,Active,3570,19,8,65,8.4,Healthcare,Not Applicable,Self-serve,1,North
+659,Q3,SMB,Starter,Active,4807,12,2,71,6.7,Healthcare,Not Applicable,Self-serve,3,East
+660,Q3,Mid-Market,Enterprise,Active,65849,19,126,67,7.4,Manufacturing,Not Applicable,Enterprise CSM,1,East
+661,Q3,SMB,Starter,Active,3961,7,7,75,6.5,Ecommerce,Not Applicable,Self-serve,4,East
+662,Q3,Mid-Market,Enterprise,Churned,32077,20,82,21,3.9,SaaS,No response,Enterprise CSM,12,North
+663,Q3,Mid-Market,Growth,Active,8742,28,18,38,7.2,Logistics,Not Applicable,Self-serve,5,East
+664,Q3,Enterprise,Enterprise,Paused,70203,11,108,30,5.4,Healthcare,Not Applicable,Enterprise CSM,5,South
+665,Q3,Enterprise,Enterprise,Trial,57854,27,23,37,6.6,Fintech,Not Applicable,Enterprise CSM,0,South
+666,Q3,Enterprise,Enterprise,Active,30495,28,147,65,7.4,SaaS,Not Applicable,Unknown,1,East
+667,Q3,SMB,Starter,Active,4475,15,7,67,7.3,Fintech,Not Applicable,Self-serve,4,South
+668,Q3,SMB,Starter,Churned,2118,24,8,29,5.9,EdTech,Missing features,Self-serve,14,West
+669,Q3,Mid-Market,Growth,Active,12327,31,15,68,8.5,SaaS,Not Applicable,Assisted,4,South
+670,Q3,Mid-Market,Growth,Churned,13298,29,28,32,5.8,Healthcare,Missing features,Assisted,8,West
+671,Q3,Enterprise,Enterprise,Active,33269,27,73,53,8.5,Manufacturing,Not Applicable,Enterprise CSM,1,East
+672,Q3,Mid-Market,Growth,Trial,10353,29,34,35,6.2,Ecommerce,Not Applicable,Assisted,4,North
+673,Q3,SMB,Starter,Active,2701,7,8,72,6.2,Manufacturing,Not Applicable,Self-serve,4,West
+674,Q3,SMB,Starter,Churned,2096,23,9,26,3.6,EdTech,Poor UX,Self-serve,9,South
+675,Q3,Enterprise,Enterprise,Active,31358,11,110,66,6.5,Logistics,Not Applicable,Enterprise CSM,4,East
+676,Q3,SMB,Starter,Active,2019,20,9,68,8.9,Logistics,Not Applicable,Self-serve,1,West
+677,Q3,SMB,Enterprise,Churned,54738,19,104,40,4.8,Healthcare,Missing features,Enterprise CSM,12,East
+678,Q3,SMB,Growth,Trial,17600,33,26,39,7.8,Healthcare,Not Applicable,Assisted,4,East
+679,Q3,SMB,Enterprise,Churned,38821,6,73,14,5.8,Fintech,Budget cut,Enterprise CSM,5,North
+680,Q3,Enterprise,Enterprise,Active,72814,16,78,47,7.9,Manufacturing,Not Applicable,Enterprise CSM,6,West
+681,Q3,Enterprise,Enterprise,Churned,50632,32,153,7,3.5,Media,Competitor,Enterprise CSM,10,East
+682,Q3,SMB,Growth,Active,11213,18,19,68,6.5,Media,Not Applicable,Assisted,5,West
+683,Q3,Enterprise,Enterprise,Active,71747,5,22,74,7.8,Logistics,Not Applicable,Enterprise CSM,3,North
+684,Q3,Enterprise,Enterprise,Trial,54114,13,121,35,7.8,EdTech,Not Applicable,Enterprise CSM,3,East
+685,Q3,SMB,Growth,Churned,13079,16,43,19,5.7,Healthcare,Poor UX,Self-serve,8,West
+686,Q3,Mid-Market,Growth,Paused,16197,19,21,30,6.9,SaaS,Not Applicable,Assisted,5,South
+687,Q3,Enterprise,Enterprise,Active,67427,17,123,72,7.3,Media,Not Applicable,Enterprise CSM,2,East
+688,Q3,Enterprise,Enterprise,Trial,54175,15,113,47,6.4,Media,Not Applicable,Self-serve,6,East
+689,Q3,Mid-Market,Growth,Trial,15997,35,14,39,6.9,Ecommerce,Not Applicable,Assisted,1,East
+690,Q3,Mid-Market,Enterprise,Active,66716,11,91,35,7.6,Media,Not Applicable,Unknown,4,North
+691,Q3,Enterprise,Enterprise,Active,42270,14,100,60,7.9,SaaS,Not Applicable,Enterprise CSM,5,North
+692,Q3,Enterprise,Enterprise,Active,75475,16,31,68,6.9,Healthcare,Not Applicable,Unknown,3,East
+693,Q3,Enterprise,Growth,Active,11539,17,45,73,6.0,Ecommerce,Not Applicable,Assisted,4,North
+694,Q3,SMB,Starter,Churned,3715,32,5,14,4.8,Fintech,No response,Self-serve,11,East
+695,Q3,SMB,Starter,Active,4700,33,4,40,6.9,Fintech,Not Applicable,Self-serve,1,North
+696,Q3,SMB,Starter,Active,4748,13,10,42,7.9,Media,Not Applicable,Self-serve,2,West
+697,Q3,SMB,Starter,Active,3943,17,10,47,6.3,Healthcare,Not Applicable,Self-serve,6,West
+698,Q3,SMB,Starter,Active,3196,4,1,38,6.1,SaaS,Not Applicable,Self-serve,3,North
+699,Q3,Enterprise,Growth,Churned,10795,23,23,38,5.8,EdTech,Price,Assisted,5,East
+700,Q3,SMB,Starter,Churned,2143,10,7,24,6.9,Media,No response,Self-serve,13,East
+701,Q3,Mid-Market,Growth,Churned,13869,9,7,9,4.0,Media,Missing features,Self-serve,11,East
+702,Q3,Mid-Market,Enterprise,Active,49229,32,82,58,8.7,Ecommerce,Not Applicable,Enterprise CSM,2,West
+703,Q3,Mid-Market,Growth,Paused,12676,4,44,18,6.2,Manufacturing,Not Applicable,Assisted,1,West
+704,Q3,Enterprise,Enterprise,Active,30047,34,137,46,6.8,Media,Not Applicable,Self-serve,4,North
+705,Q3,SMB,Growth,Churned,19515,9,28,26,3.2,Healthcare,Competitor,Self-serve,11,South
+706,Q3,Enterprise,Enterprise,Active,70528,28,40,61,7.0,EdTech,Not Applicable,Enterprise CSM,2,North
+707,Q3,SMB,Starter,Churned,4885,13,2,25,3.5,Manufacturing,No response,Self-serve,13,North
+708,Q3,Mid-Market,Enterprise,Active,46855,21,116,68,6.0,Media,Not Applicable,Enterprise CSM,2,South
+709,Q3,Enterprise,Starter,Active,3687,6,2,47,8.5,Logistics,Not Applicable,Self-serve,5,East
+710,Q3,Enterprise,Enterprise,Active,64563,18,31,41,9.0,EdTech,Not Applicable,Enterprise CSM,5,East
+711,Q3,SMB,Starter,Churned,2269,14,8,24,4.2,Healthcare,Missing features,Self-serve,13,South
+712,Q3,Mid-Market,Starter,Churned,4039,10,9,22,3.1,Ecommerce,Budget cut,Self-serve,5,East
+713,Q3,Enterprise,Enterprise,Active,44246,8,171,66,8.6,EdTech,Not Applicable,Enterprise CSM,5,East
+714,Q3,SMB,Starter,Trial,4122,3,8,46,6.7,EdTech,Not Applicable,Self-serve,6,South
+715,Q3,Enterprise,Enterprise,Active,41644,4,104,72,8.2,Healthcare,Not Applicable,Enterprise CSM,4,North
+716,Q3,SMB,Growth,Trial,19914,9,39,20,6.2,Media,Not Applicable,Assisted,2,South
+717,Q3,Mid-Market,Enterprise,Trial,66056,13,159,48,6.0,Healthcare,Not Applicable,Enterprise CSM,1,East
+718,Q3,SMB,Starter,Active,2494,5,1,58,7.1,Media,Not Applicable,Self-serve,5,West
+719,Q3,SMB,Starter,Active,4016,29,1,67,8.1,SaaS,Not Applicable,Self-serve,5,East
+720,Q3,Mid-Market,Growth,Churned,11228,28,17,20,4.1,SaaS,Missing features,Assisted,6,West
+721,Q3,SMB,Growth,Active,17143,16,47,67,8.9,Logistics,Not Applicable,Assisted,3,West
+722,Q3,Mid-Market,Growth,Active,12469,20,39,47,6.1,SaaS,Not Applicable,Assisted,3,East
+723,Q3,Mid-Market,Enterprise,Active,54487,27,134,52,6.9,Healthcare,Not Applicable,Enterprise CSM,3,North
+724,Q3,Enterprise,Enterprise,Active,71434,15,80,52,8.7,Ecommerce,Not Applicable,Enterprise CSM,1,North
+725,Q3,Enterprise,Growth,Active,18048,36,20,75,6.8,Ecommerce,Not Applicable,Self-serve,0,East
+726,Q3,Enterprise,Enterprise,Active,51653,11,33,70,8.2,Media,Not Applicable,Enterprise CSM,1,South
+727,Q3,Enterprise,Enterprise,Paused,51580,21,165,17,7.9,Ecommerce,Not Applicable,Enterprise CSM,6,East
+728,Q3,SMB,Starter,Trial,4331,12,8,54,5.4,Logistics,Not Applicable,Self-serve,6,East
+729,Q3,Mid-Market,Enterprise,Paused,61906,34,175,39,5.6,Manufacturing,Not Applicable,Enterprise CSM,2,North
+730,Q3,Enterprise,Enterprise,Churned,37351,4,144,26,4.2,EdTech,Price,Self-serve,11,North
+731,Q3,SMB,Growth,Active,16877,2,29,62,7.3,Media,Not Applicable,Assisted,3,East
+732,Q3,Mid-Market,Growth,Active,15623,6,8,58,8.0,Manufacturing,Not Applicable,Assisted,3,West
+733,Q3,SMB,Growth,Churned,19939,35,16,11,3.4,Manufacturing,Price,Assisted,5,East
+734,Q3,SMB,Starter,Churned,3860,3,5,29,3.9,SaaS,Poor UX,Self-serve,3,North
+735,Q3,Mid-Market,Enterprise,Active,68547,3,160,45,6.8,Logistics,Not Applicable,Enterprise CSM,0,South
+736,Q3,Enterprise,Growth,Churned,16786,9,17,12,3.3,Media,Missing features,Self-serve,14,South
+737,Q3,Mid-Market,Growth,Paused,13562,12,29,17,6.9,Media,Not Applicable,Assisted,3,West
+738,Q3,Enterprise,Enterprise,Paused,36184,25,96,51,7.2,Healthcare,Not Applicable,Enterprise CSM,2,South
+739,Q3,SMB,Starter,Churned,3428,22,7,20,5.5,Ecommerce,Budget cut,Self-serve,6,East
+740,Q3,SMB,Enterprise,Active,79009,23,149,40,6.1,Logistics,Not Applicable,Enterprise CSM,3,West
+741,Q3,Mid-Market,Starter,Active,2197,28,4,56,7.5,Manufacturing,Not Applicable,Self-serve,5,East
+742,Q3,Enterprise,Enterprise,Active,58346,17,52,46,6.9,Media,Not Applicable,Enterprise CSM,4,North
+743,Q3,SMB,Growth,Trial,14637,10,11,15,6.8,Healthcare,Not Applicable,Assisted,5,North
+744,Q3,Enterprise,Enterprise,Active,40395,8,68,40,6.5,EdTech,Not Applicable,Unknown,4,North
+745,Q3,Enterprise,Growth,Churned,18551,6,11,10,4.1,SaaS,Missing features,Assisted,10,East
+746,Q3,Mid-Market,Starter,Churned,2321,34,9,34,4.9,Ecommerce,Poor UX,Self-serve,10,East
+747,Q3,Enterprise,Enterprise,Active,31771,26,60,52,7.5,Ecommerce,Not Applicable,Enterprise CSM,3,East
+748,Q3,Enterprise,Growth,Active,16084,35,11,65,8.0,Media,Not Applicable,Self-serve,5,North
+749,Q3,Enterprise,Enterprise,Active,45622,10,123,36,6.5,Fintech,Not Applicable,Enterprise CSM,5,North
+750,Q3,SMB,Starter,Trial,4202,3,6,16,6.3,SaaS,Not Applicable,Self-serve,3,South
+751,Q3,Mid-Market,Starter,Active,3938,30,7,39,8.9,Media,Not Applicable,Self-serve,3,West
+752,Q3,Mid-Market,Growth,Active,19483,14,37,69,6.4,Healthcare,Not Applicable,Assisted,6,South
+753,Q3,SMB,Growth,Active,8100,29,25,37,7.9,Manufacturing,Not Applicable,Self-serve,0,East
+754,Q3,Enterprise,Enterprise,Active,43866,24,174,57,6.9,EdTech,Not Applicable,Enterprise CSM,4,North
+755,Q3,Mid-Market,Growth,Churned,8809,3,10,35,4.7,Media,Budget cut,Assisted,12,East
+756,Q3,Mid-Market,Starter,Active,2452,4,1,60,8.3,EdTech,Not Applicable,Self-serve,6,North
+757,Q3,SMB,Starter,Churned,2794,24,9,12,5.3,SaaS,Price,Self-serve,3,South
+758,Q3,Mid-Market,Growth,Churned,18567,35,17,24,4.5,Ecommerce,Poor UX,Assisted,5,North
+759,Q3,Enterprise,Enterprise,Active,51738,16,164,69,6.9,Logistics,Not Applicable,Enterprise CSM,4,West
+760,Q3,Enterprise,Enterprise,Churned,37829,19,105,5,3.6,Ecommerce,No response,Enterprise CSM,7,East
+761,Q3,SMB,Starter,Active,3749,16,8,53,8.7,EdTech,Not Applicable,Self-serve,5,North
+762,Q3,SMB,Starter,Active,3925,21,4,45,7.9,Ecommerce,Not Applicable,Self-serve,4,South
+763,Q3,SMB,Starter,Active,15075,7,3,42,6.5,Media,Not Applicable,Self-serve,1,North
+764,Q3,SMB,Starter,Active,3269,34,2,42,6.5,Manufacturing,Not Applicable,Self-serve,4,East
+765,Q3,Enterprise,Enterprise,Active,51004,3,78,62,6.9,Healthcare,Not Applicable,Enterprise CSM,5,East
+766,Q3,Mid-Market,Starter,Active,3168,5,2,55,6.0,SaaS,Not Applicable,Self-serve,3,South
+767,Q3,Enterprise,Enterprise,Active,32154,14,179,55,8.8,Manufacturing,Not Applicable,Enterprise CSM,5,North
+768,Q3,Mid-Market,Starter,Trial,4392,3,4,30,5.1,Fintech,Not Applicable,Self-serve,4,East
+769,Q3,Enterprise,Growth,Active,8983,4,5,67,7.5,Media,Not Applicable,Self-serve,5,East
+770,Q3,Mid-Market,Growth,Churned,15110,22,21,5,4.8,Healthcare,Competitor,Self-serve,5,West
+771,Q3,Mid-Market,Growth,Churned,8958,14,11,5,4.9,Media,Missing features,Self-serve,8,West
+772,Q3,Mid-Market,Growth,Active,8899,33,46,36,6.3,Ecommerce,Not Applicable,Self-serve,0,South
+773,Q3,Mid-Market,Growth,Churned,14186,23,23,29,6.9,Logistics,Price,Assisted,12,West
+774,Q3,Mid-Market,Growth,Trial,16275,19,12,35,6.3,Healthcare,Not Applicable,Self-serve,0,North
+775,Q3,SMB,Starter,Trial,4006,16,9,33,6.0,Healthcare,Not Applicable,Self-serve,4,South
+776,Q3,SMB,Starter,Churned,2063,9,2,32,5.7,Manufacturing,Price,Self-serve,12,West
+777,Q3,Enterprise,Enterprise,Active,51169,24,186,62,6.2,Media,Not Applicable,Enterprise CSM,6,West
+778,Q3,SMB,Starter,Paused,4643,24,6,50,7.2,Media,Not Applicable,Self-serve,4,South
+779,Q3,Mid-Market,Enterprise,Active,54737,34,23,57,8.1,Media,Not Applicable,Enterprise CSM,2,West
+780,Q3,SMB,Starter,Churned,4042,6,10,23,5.9,Manufacturing,Price,Self-serve,4,East
+781,Q3,Mid-Market,Growth,Active,10957,27,27,56,8.7,Healthcare,Not Applicable,Assisted,1,South
+782,Q3,Mid-Market,Growth,Active,17092,18,44,49,8.0,Media,Not Applicable,Assisted,2,East
+783,Q3,Mid-Market,Growth,Active,17291,8,35,50,7.3,Manufacturing,Not Applicable,Assisted,5,North
+784,Q3,Mid-Market,Growth,Churned,17158,32,49,36,4.8,Fintech,No response,Assisted,6,East
+785,Q3,Mid-Market,Starter,Active,4130,35,4,56,6.9,Media,Not Applicable,Self-serve,4,South
+786,Q3,Enterprise,Enterprise,Trial,43803,35,119,39,5.4,Fintech,Not Applicable,Enterprise CSM,0,East
+787,Q3,Mid-Market,Growth,Paused,18672,14,42,39,5.6,Media,Not Applicable,Assisted,0,North
+788,Q3,Enterprise,Enterprise,Active,71634,6,28,70,8.9,Media,Not Applicable,Enterprise CSM,4,South
+789,Q3,Mid-Market,Growth,Paused,18312,7,29,47,6.1,Media,Not Applicable,Self-serve,2,West
+790,Q3,Enterprise,Growth,Active,14507,17,20,72,8.2,Manufacturing,Not Applicable,Assisted,3,South
+791,Q3,SMB,Growth,Churned,9220,5,24,14,5.0,Manufacturing,Competitor,Assisted,14,West
+792,Q3,Mid-Market,Enterprise,Churned,66554,35,55,5,5.0,Media,Missing features,Enterprise CSM,9,East
+793,Q3,Mid-Market,Growth,Churned,18189,9,8,31,4.1,EdTech,No response,Assisted,8,North
+794,Q3,Enterprise,Enterprise,Churned,33110,4,165,26,6.9,Healthcare,Budget cut,Self-serve,11,South
+795,Q3,Enterprise,Enterprise,Active,65710,31,79,65,7.7,Media,Not Applicable,Enterprise CSM,5,East
+796,Q3,Enterprise,Enterprise,Active,54920,24,51,45,8.2,Logistics,Not Applicable,Enterprise CSM,2,South
+797,Q3,Mid-Market,Growth,Churned,14617,2,36,40,3.7,SaaS,Competitor,Assisted,13,South
+798,Q3,Enterprise,Enterprise,Active,61588,33,43,58,6.2,Healthcare,Not Applicable,Enterprise CSM,3,South
+799,Q3,Mid-Market,Starter,Active,4750,12,6,54,6.8,Healthcare,Not Applicable,Self-serve,3,East
+800,Q3,SMB,Starter,Churned,2260,5,3,28,4.6,Manufacturing,Price,Self-serve,6,North
+801,Q3,Enterprise,Enterprise,Paused,38204,20,165,46,7.9,Fintech,Not Applicable,Enterprise CSM,1,West
+802,Q3,SMB,Starter,Active,3070,12,5,57,8.5,Media,Not Applicable,Self-serve,3,South
+803,Q3,SMB,Growth,Churned,19041,14,33,31,5.6,Logistics,No response,Assisted,6,North
+804,Q3,SMB,Growth,Trial,14190,9,8,27,6.6,Media,Not Applicable,Self-serve,2,East
+805,Q3,Enterprise,Growth,Active,19192,36,9,66,8.8,Fintech,Not Applicable,Self-serve,2,South
+806,Q3,SMB,Starter,Churned,3942,7,3,14,3.7,Logistics,Price,Self-serve,6,North
+807,Q3,SMB,Starter,Churned,2200,26,9,8,5.2,Media,No response,Self-serve,13,East
+808,Q3,Enterprise,Growth,Churned,8837,15,44,5,5.9,Logistics,Price,Assisted,15,West
+809,Q3,Mid-Market,Growth,Churned,11698,2,22,27,4.6,Fintech,Poor UX,Self-serve,6,North
+810,Q3,Enterprise,Enterprise,Active,38125,25,54,53,6.9,Ecommerce,Not Applicable,Enterprise CSM,2,West
+811,Q4,Enterprise,Enterprise,Active,69691,20,173,51,6.9,SaaS,Not Applicable,Self-serve,3,West
+812,Q4,SMB,Starter,Churned,3868,12,10,5,3.9,Healthcare,Budget cut,Self-serve,12,North
+813,Q4,SMB,Starter,Active,2586,12,5,54,7.0,Healthcare,Not Applicable,Self-serve,2,North
+814,Q4,SMB,Starter,Active,4442,15,10,47,8.7,Ecommerce,Not Applicable,Self-serve,1,East
+815,Q4,Enterprise,Enterprise,Churned,46128,23,66,24,5.8,SaaS,Missing features,Enterprise CSM,10,West
+816,Q4,Mid-Market,Growth,Active,18600,28,20,40,8.6,Fintech,Not Applicable,Assisted,2,East
+817,Q4,SMB,Enterprise,Active,68753,3,87,48,7.7,Healthcare,Not Applicable,Enterprise CSM,2,North
+818,Q4,Mid-Market,Growth,Active,14216,24,18,54,7.9,Ecommerce,Not Applicable,Self-serve,4,West
+819,Q4,Enterprise,Enterprise,Active,38700,4,168,63,8.8,Fintech,Not Applicable,Enterprise CSM,2,North
+820,Q4,Mid-Market,Growth,Active,8480,33,14,62,7.3,Fintech,Not Applicable,Assisted,3,South
+821,Q4,Mid-Market,Starter,Trial,2991,32,6,24,7.4,EdTech,Not Applicable,Self-serve,2,North
+822,Q4,Mid-Market,Starter,Active,3934,7,2,65,6.9,SaaS,Not Applicable,Self-serve,5,East
+823,Q4,SMB,Starter,Paused,4906,16,3,16,6.7,Manufacturing,Not Applicable,Self-serve,3,West
+824,Q4,Enterprise,Enterprise,Active,60328,24,106,71,8.3,Ecommerce,Not Applicable,Enterprise CSM,2,West
+825,Q4,Enterprise,Enterprise,Active,60169,31,98,51,7.2,Fintech,Not Applicable,Self-serve,6,North
+826,Q4,SMB,Starter,Active,4307,21,2,60,8.3,Manufacturing,Not Applicable,Unknown,3,East
+827,Q4,Enterprise,Growth,Active,18532,13,41,48,7.9,Logistics,Not Applicable,Assisted,2,South
+828,Q4,SMB,Growth,Active,8368,29,17,50,7.6,EdTech,Not Applicable,Self-serve,2,West
+829,Q4,Mid-Market,Enterprise,Churned,60274,12,176,18,3.3,Manufacturing,Competitor,Enterprise CSM,4,East
+830,Q4,Enterprise,Enterprise,Paused,69187,15,29,23,5.4,Media,Not Applicable,Enterprise CSM,0,South
+831,Q4,Enterprise,Growth,Active,15264,3,25,37,8.2,Ecommerce,Not Applicable,Self-serve,3,East
+832,Q4,Enterprise,Growth,Active,18824,28,26,69,7.6,Healthcare,Not Applicable,Self-serve,4,East
+833,Q4,Mid-Market,Starter,Active,3678,32,2,53,6.7,SaaS,Not Applicable,Self-serve,2,East
+834,Q4,SMB,Growth,Active,9918,31,50,56,7.1,Media,Not Applicable,Self-serve,0,East
+835,Q4,Enterprise,Enterprise,Active,32461,6,109,72,8.1,Manufacturing,Not Applicable,Self-serve,1,East
+836,Q4,Enterprise,Enterprise,Active,66026,29,71,43,7.0,Media,Not Applicable,Enterprise CSM,4,East
+837,Q4,Enterprise,Enterprise,Active,66789,31,90,56,6.7,Media,Not Applicable,Enterprise CSM,6,West
+838,Q4,Enterprise,Growth,Churned,17443,25,36,5,5.1,EdTech,Price,Self-serve,9,North
+839,Q4,SMB,Starter,Active,3073,35,2,71,6.7,Media,Not Applicable,Self-serve,4,South
+840,Q4,Enterprise,Enterprise,Active,40400,17,177,46,6.7,Media,Not Applicable,Enterprise CSM,0,South
+841,Q4,Enterprise,Enterprise,Active,61426,16,84,62,6.2,Media,Not Applicable,Enterprise CSM,0,East
+842,Q4,SMB,Starter,Active,4280,19,4,40,8.8,Logistics,Not Applicable,Self-serve,3,North
+843,Q4,SMB,Starter,Churned,3515,16,7,5,3.2,Media,No response,Self-serve,3,East
+844,Q4,Enterprise,Enterprise,Paused,60395,5,64,55,7.7,Ecommerce,Not Applicable,Enterprise CSM,3,West
+845,Q4,Mid-Market,Growth,Active,12129,14,9,40,7.3,Healthcare,Not Applicable,Assisted,3,West
+846,Q4,Mid-Market,Enterprise,Active,75638,16,174,50,6.9,Fintech,Not Applicable,Unknown,2,West
+847,Q4,Mid-Market,Growth,Paused,13843,22,34,19,6.4,Fintech,Not Applicable,Self-serve,5,East
+848,Q4,SMB,Starter,Active,4071,9,7,58,6.1,Ecommerce,Not Applicable,Self-serve,2,East
+849,Q4,Mid-Market,Starter,Active,15075,7,6,69,8.3,Fintech,Not Applicable,Self-serve,2,South
+850,Q4,SMB,Growth,Active,9955,7,50,51,8.1,EdTech,Not Applicable,Self-serve,5,North
+851,Q4,Enterprise,Enterprise,Paused,72794,6,107,50,6.9,Logistics,Not Applicable,Enterprise CSM,2,North
+852,Q4,Enterprise,Enterprise,Trial,72664,33,115,42,6.9,Logistics,Not Applicable,Enterprise CSM,3,North
+853,Q4,Mid-Market,Growth,Active,9241,30,10,39,7.3,Ecommerce,Not Applicable,Assisted,1,West
+854,Q4,Mid-Market,Starter,Active,3887,9,3,54,7.8,Manufacturing,Not Applicable,Self-serve,4,West
+855,Q4,SMB,Growth,Active,12976,27,40,74,7.3,SaaS,Not Applicable,Assisted,3,East
+856,Q4,Mid-Market,Growth,Paused,19700,18,34,35,7.3,Healthcare,Not Applicable,Assisted,4,North
+857,Q4,Mid-Market,Enterprise,Trial,77750,8,33,36,6.4,Healthcare,Not Applicable,Enterprise CSM,5,North
+858,Q4,Mid-Market,Enterprise,Active,79460,24,170,68,8.0,Logistics,Not Applicable,Enterprise CSM,1,North
+859,Q4,Mid-Market,Growth,Active,17462,19,21,64,7.5,Healthcare,Not Applicable,Assisted,1,West
+860,Q4,Enterprise,Starter,Churned,4599,2,2,32,5.6,EdTech,Price,Self-serve,14,South
+861,Q4,Mid-Market,Growth,Active,14328,15,22,44,6.6,Fintech,Not Applicable,Self-serve,0,East
+862,Q4,Mid-Market,Starter,Active,15075,29,8,41,8.9,Ecommerce,Not Applicable,Self-serve,0,West
+863,Q4,Enterprise,Enterprise,Active,78374,25,39,58,8.9,Media,Not Applicable,Enterprise CSM,1,South
+864,Q4,SMB,Starter,Active,2913,27,5,49,8.6,Healthcare,Not Applicable,Self-serve,3,West
+865,Q4,SMB,Growth,Churned,19296,33,46,20,5.2,Manufacturing,No response,Self-serve,11,East
+866,Q4,Enterprise,Enterprise,Active,77169,18,113,64,6.8,Healthcare,Not Applicable,Enterprise CSM,3,West
+867,Q4,SMB,Starter,Churned,2617,15,4,23,5.4,Logistics,Poor UX,Self-serve,15,East
+868,Q4,Enterprise,Enterprise,Active,67274,25,184,71,6.9,Healthcare,Not Applicable,Enterprise CSM,4,East
+869,Q4,Enterprise,Enterprise,Active,49383,17,104,69,9.0,Media,Not Applicable,Enterprise CSM,5,North
+870,Q4,Mid-Market,Starter,Active,4670,25,4,59,8.2,Media,Not Applicable,Self-serve,1,East
+871,Q4,Mid-Market,Growth,Paused,16619,12,20,46,7.6,Media,Not Applicable,Self-serve,5,East
+872,Q4,Enterprise,Enterprise,Trial,72388,19,103,27,5.4,Ecommerce,Not Applicable,Enterprise CSM,4,East
+873,Q4,Enterprise,Enterprise,Paused,33773,33,57,34,5.7,Ecommerce,Not Applicable,Self-serve,4,South
+874,Q4,Mid-Market,Growth,Trial,9350,11,29,37,6.9,Fintech,Not Applicable,Self-serve,5,South
+875,Q4,SMB,Starter,Churned,2963,11,5,5,3.9,Ecommerce,Competitor,Self-serve,8,East
+876,Q4,SMB,Growth,Active,8165,8,31,49,8.3,Logistics,Not Applicable,Self-serve,3,West
+877,Q4,Mid-Market,Starter,Active,3331,15,5,39,7.7,EdTech,Not Applicable,Self-serve,6,South
+878,Q4,Mid-Market,Enterprise,Active,79625,22,124,67,8.7,Manufacturing,Not Applicable,Enterprise CSM,3,North
+879,Q4,SMB,Starter,Active,2986,7,6,65,7.0,EdTech,Not Applicable,Self-serve,6,South
+880,Q4,SMB,Enterprise,Active,63085,8,27,58,7.4,Media,Not Applicable,Enterprise CSM,4,North
+881,Q4,SMB,Growth,Churned,17567,3,37,34,5.0,Media,Budget cut,Assisted,8,North
+882,Q4,Enterprise,Enterprise,Churned,75141,3,159,36,5.8,Fintech,Price,Enterprise CSM,7,South
+883,Q4,SMB,Growth,Active,11571,13,17,42,6.7,Healthcare,Not Applicable,Self-serve,3,West
+884,Q4,SMB,Starter,Active,2357,14,6,71,7.5,Healthcare,Not Applicable,Self-serve,1,East
+885,Q4,SMB,Starter,Active,4600,24,4,37,7.2,Healthcare,Not Applicable,Self-serve,1,West
+886,Q4,Enterprise,Enterprise,Churned,47129,23,68,26,4.7,Manufacturing,Competitor,Enterprise CSM,10,North
+887,Q4,Enterprise,Enterprise,Active,56925,13,152,63,8.2,Healthcare,Not Applicable,Enterprise CSM,5,North
+888,Q4,SMB,Starter,Trial,2161,35,9,36,6.9,Manufacturing,Not Applicable,Self-serve,5,North
+889,Q4,Enterprise,Enterprise,Active,66430,34,44,49,6.1,Media,Not Applicable,Enterprise CSM,1,South
+890,Q4,Mid-Market,Growth,Active,14014,7,30,69,7.7,Fintech,Not Applicable,Assisted,1,South
+891,Q4,SMB,Growth,Churned,16070,13,23,17,4.4,EdTech,Missing features,Self-serve,15,South
+892,Q4,SMB,Starter,Active,3545,31,9,59,6.3,Ecommerce,Not Applicable,Self-serve,5,West
+893,Q4,Enterprise,Enterprise,Active,67332,24,187,70,7.5,Manufacturing,Not Applicable,Enterprise CSM,0,East
+894,Q4,Mid-Market,Enterprise,Trial,59509,33,120,49,6.9,EdTech,Not Applicable,Enterprise CSM,2,North
+895,Q4,Enterprise,Enterprise,Active,51734,25,66,38,6.2,Ecommerce,Not Applicable,Enterprise CSM,3,East
+896,Q4,SMB,Starter,Active,2893,27,9,45,7.0,Media,Not Applicable,Self-serve,2,South
+897,Q4,Enterprise,Enterprise,Churned,46494,29,99,35,5.2,Media,Competitor,Enterprise CSM,6,East
+898,Q4,SMB,Growth,Churned,19310,10,26,15,5.4,EdTech,Budget cut,Self-serve,14,East
+899,Q4,Mid-Market,Growth,Churned,12778,27,14,5,3.5,Fintech,Price,Assisted,11,West
+900,Q4,Mid-Market,Starter,Paused,2756,27,5,53,6.8,Ecommerce,Not Applicable,Self-serve,3,North
+901,Q4,SMB,Starter,Active,2487,22,8,38,8.4,Manufacturing,Not Applicable,Self-serve,3,South
+902,Q4,Mid-Market,Growth,Active,16312,10,6,40,8.6,Fintech,Not Applicable,Self-serve,3,South
+903,Q4,Mid-Market,Starter,Trial,4173,32,1,29,7.9,SaaS,Not Applicable,Self-serve,3,East
+904,Q4,Mid-Market,Growth,Churned,17791,32,47,16,3.1,EdTech,Budget cut,Assisted,13,East
+905,Q4,Mid-Market,Growth,Active,9464,4,33,73,8.0,Healthcare,Not Applicable,Self-serve,6,East
+906,Q4,Enterprise,Enterprise,Active,65730,8,150,54,8.1,Ecommerce,Not Applicable,Enterprise CSM,1,South
+907,Q4,Enterprise,Growth,Active,17015,12,39,50,7.6,Logistics,Not Applicable,Assisted,1,West
+908,Q4,SMB,Starter,Churned,3284,5,9,19,6.9,Logistics,Missing features,Self-serve,14,South
+909,Q4,SMB,Enterprise,Churned,54153,7,80,5,4.5,Logistics,Competitor,Enterprise CSM,15,North
+910,Q4,Mid-Market,Growth,Active,16035,27,16,35,8.9,Ecommerce,Not Applicable,Assisted,0,South
+911,Q4,Mid-Market,Growth,Active,17459,20,16,51,6.9,SaaS,Not Applicable,Self-serve,5,East
+912,Q4,SMB,Starter,Active,4379,17,9,68,7.2,EdTech,Not Applicable,Self-serve,1,North
+913,Q4,Enterprise,Growth,Active,18966,8,43,57,8.4,Fintech,Not Applicable,Assisted,6,East
+914,Q4,SMB,Growth,Paused,12689,28,21,45,6.1,Ecommerce,Not Applicable,Self-serve,6,East
+915,Q4,Mid-Market,Growth,Trial,16182,25,10,54,5.3,Logistics,Not Applicable,Self-serve,0,East
+916,Q4,SMB,Starter,Active,3330,17,9,40,8.3,Healthcare,Not Applicable,Self-serve,5,West
+917,Q4,Enterprise,Enterprise,Active,78686,25,155,60,7.2,Fintech,Not Applicable,Self-serve,0,East
+918,Q4,SMB,Growth,Active,15690,33,6,66,8.5,Manufacturing,Not Applicable,Self-serve,3,South
+919,Q4,SMB,Starter,Churned,2788,6,2,18,3.9,EdTech,Price,Self-serve,3,North
+920,Q4,Enterprise,Enterprise,Paused,38928,22,45,45,6.9,Media,Not Applicable,Enterprise CSM,4,East
+921,Q4,SMB,Starter,Paused,3433,17,4,30,7.4,Ecommerce,Not Applicable,Self-serve,4,North
+922,Q4,Mid-Market,Enterprise,Active,64847,25,51,54,8.9,Media,Not Applicable,Enterprise CSM,5,South
+923,Q4,SMB,Growth,Active,12373,35,5,62,8.5,Manufacturing,Not Applicable,Assisted,3,East
+924,Q4,SMB,Starter,Active,2569,36,3,60,6.2,SaaS,Not Applicable,Self-serve,1,West
+925,Q4,SMB,Starter,Paused,3395,10,3,22,6.0,Manufacturing,Not Applicable,Self-serve,1,North
+926,Q4,SMB,Growth,Churned,13393,26,21,17,4.1,SaaS,Price,Assisted,9,West
+927,Q4,SMB,Starter,Churned,4654,8,6,28,5.7,Manufacturing,Poor UX,Self-serve,13,East
+928,Q4,SMB,Starter,Active,3831,36,2,46,7.4,Media,Not Applicable,Self-serve,3,West
+929,Q4,SMB,Starter,Active,3123,34,5,36,6.3,Media,Not Applicable,Self-serve,6,East
+930,Q4,SMB,Starter,Paused,2861,4,9,34,5.5,Manufacturing,Not Applicable,Self-serve,1,South
+931,Q4,Enterprise,Starter,Active,2639,4,2,49,8.8,EdTech,Not Applicable,Self-serve,1,North
+932,Q4,SMB,Starter,Churned,4560,26,2,19,5.8,Fintech,Price,Self-serve,6,North
+933,Q4,SMB,Starter,Active,4456,18,6,72,7.5,Fintech,Not Applicable,Self-serve,0,West
+934,Q4,SMB,Growth,Churned,14930,13,12,12,6.9,EdTech,Poor UX,Self-serve,11,West
+935,Q4,Mid-Market,Growth,Active,17755,20,38,41,8.9,Healthcare,Not Applicable,Assisted,2,East
+936,Q4,Mid-Market,Enterprise,Active,56498,4,35,38,6.3,EdTech,Not Applicable,Enterprise CSM,5,West
+937,Q4,SMB,Starter,Paused,2805,31,9,35,6.5,EdTech,Not Applicable,Self-serve,3,South
+938,Q4,SMB,Starter,Paused,4405,4,2,50,6.9,EdTech,Not Applicable,Self-serve,6,West
+939,Q4,SMB,Starter,Active,2959,17,9,42,6.9,Manufacturing,Not Applicable,Self-serve,4,East
+940,Q4,Mid-Market,Enterprise,Trial,59830,16,104,15,7.3,Ecommerce,Not Applicable,Enterprise CSM,1,North
+941,Q4,Enterprise,Enterprise,Active,59976,2,110,45,6.7,Manufacturing,Not Applicable,Enterprise CSM,0,North
+942,Q4,Enterprise,Growth,Trial,15431,20,13,24,6.9,EdTech,Not Applicable,Assisted,1,East
+943,Q4,Enterprise,Enterprise,Churned,32728,21,34,36,4.9,Media,Competitor,Enterprise CSM,8,East
+944,Q4,Mid-Market,Growth,Active,16657,17,37,73,8.0,Manufacturing,Not Applicable,Assisted,2,West
+945,Q4,SMB,Growth,Churned,8443,26,40,5,3.8,SaaS,Poor UX,Self-serve,10,West
+946,Q4,SMB,Starter,Trial,2898,4,5,24,5.1,Logistics,Not Applicable,Self-serve,3,North
+947,Q4,SMB,Starter,Active,4824,5,8,71,7.0,Media,Not Applicable,Self-serve,3,West
+948,Q4,SMB,Starter,Active,3376,23,10,55,8.1,SaaS,Not Applicable,Self-serve,3,East
+949,Q4,Enterprise,Enterprise,Active,36698,11,79,38,8.6,EdTech,Not Applicable,Enterprise CSM,4,East
+950,Q4,Mid-Market,Growth,Trial,15189,30,32,27,6.4,Healthcare,Not Applicable,Self-serve,4,South
+951,Q4,SMB,Starter,Active,2712,28,3,71,6.4,Ecommerce,Not Applicable,Unknown,5,South
+952,Q4,Mid-Market,Enterprise,Active,78497,27,172,72,8.5,Logistics,Not Applicable,Enterprise CSM,6,South
+953,Q4,SMB,Starter,Active,2919,8,6,43,8.0,Manufacturing,Not Applicable,Self-serve,5,South
+954,Q4,Mid-Market,Growth,Trial,15926,17,13,52,7.3,Fintech,Not Applicable,Self-serve,1,East
+955,Q4,Mid-Market,Growth,Active,10595,14,20,42,7.5,Media,Not Applicable,Unknown,2,North
+956,Q4,Enterprise,Enterprise,Churned,35203,7,45,35,5.8,SaaS,Budget cut,Enterprise CSM,4,East
+957,Q4,Mid-Market,Growth,Active,15772,36,19,67,7.5,Fintech,Not Applicable,Self-serve,1,West
+958,Q4,SMB,Starter,Active,2732,36,10,66,7.9,Logistics,Not Applicable,Self-serve,4,East
+959,Q4,Enterprise,Enterprise,Active,54222,4,166,73,8.5,Media,Not Applicable,Enterprise CSM,6,South
+960,Q4,SMB,Growth,Active,10361,6,47,66,6.3,Ecommerce,Not Applicable,Self-serve,1,South
+961,Q4,SMB,Starter,Active,3850,5,4,45,8.5,Logistics,Not Applicable,Self-serve,2,South
+962,Q4,SMB,Starter,Churned,4107,30,9,8,3.0,Ecommerce,Price,Self-serve,6,East
+963,Q4,Mid-Market,Growth,Trial,13296,35,48,34,6.7,Logistics,Not Applicable,Assisted,4,East
+964,Q4,SMB,Growth,Active,13156,7,36,59,8.0,SaaS,Not Applicable,Assisted,0,South
+965,Q4,Mid-Market,Enterprise,Trial,38404,23,145,43,6.9,Healthcare,Not Applicable,Enterprise CSM,1,West
+966,Q4,SMB,Growth,Active,10203,13,37,44,7.6,Media,Not Applicable,Assisted,3,East
+967,Q4,Enterprise,Growth,Active,16756,28,26,59,6.1,Logistics,Not Applicable,Self-serve,1,West
+968,Q4,Mid-Market,Enterprise,Active,58454,26,92,64,7.8,Healthcare,Not Applicable,Enterprise CSM,1,West
+969,Q4,Mid-Market,Starter,Trial,4100,14,2,35,6.6,Healthcare,Not Applicable,Self-serve,1,South
+970,Q4,Mid-Market,Growth,Active,13049,6,28,35,7.3,EdTech,Not Applicable,Unknown,3,East
+971,Q4,SMB,Growth,Churned,19071,5,14,19,3.2,Ecommerce,Poor UX,Assisted,13,North
+972,Q4,Enterprise,Growth,Churned,9863,4,15,39,4.0,Fintech,Missing features,Self-serve,5,West
+973,Q4,Mid-Market,Growth,Active,12622,27,24,44,8.2,Healthcare,Not Applicable,Self-serve,1,West
+974,Q4,SMB,Growth,Active,12713,6,19,58,8.5,Logistics,Not Applicable,Assisted,1,North
+975,Q4,Enterprise,Enterprise,Trial,48933,14,63,30,7.8,Logistics,Not Applicable,Enterprise CSM,0,South
+976,Q4,Mid-Market,Growth,Active,14152,7,7,62,6.0,Fintech,Not Applicable,Assisted,2,East
+977,Q4,SMB,Starter,Active,3102,34,10,52,6.1,SaaS,Not Applicable,Self-serve,5,South
+978,Q4,SMB,Starter,Active,2877,36,9,60,7.9,Ecommerce,Not Applicable,Self-serve,3,East
+979,Q4,Mid-Market,Growth,Active,19613,19,35,51,6.9,Fintech,Not Applicable,Self-serve,5,North
+980,Q4,Enterprise,Enterprise,Active,38885,3,31,57,7.9,Fintech,Not Applicable,Enterprise CSM,4,North
+981,Q4,Enterprise,Growth,Trial,13393,13,42,26,7.8,Manufacturing,Not Applicable,Assisted,3,East
+982,Q4,SMB,Enterprise,Trial,64458,14,98,24,6.6,Media,Not Applicable,Enterprise CSM,3,West
+983,Q4,Enterprise,Enterprise,Paused,37920,23,85,41,7.1,Healthcare,Not Applicable,Enterprise CSM,4,East
+984,Q4,Mid-Market,Starter,Churned,3180,9,9,24,3.1,EdTech,Not Applicable,Self-serve,11,North
+985,Q4,Mid-Market,Growth,Paused,14294,18,49,22,7.6,Ecommerce,Not Applicable,Assisted,3,East
+986,Q4,Mid-Market,Growth,Churned,14491,19,43,11,5.6,Media,Price,Self-serve,4,North
+987,Q4,SMB,Starter,Churned,4297,17,7,32,4.5,Manufacturing,Price,Self-serve,7,East
+988,Q4,SMB,Starter,Paused,3582,28,2,50,7.4,Ecommerce,Not Applicable,Self-serve,1,West
+989,Q4,SMB,Starter,Paused,4069,32,10,37,5.7,Fintech,Not Applicable,Self-serve,2,South
+990,Q4,SMB,Growth,Churned,10236,20,19,17,6.9,Healthcare,Missing features,Assisted,11,South
+991,Q4,SMB,Starter,Active,2137,25,3,49,6.6,Ecommerce,Not Applicable,Self-serve,6,East
+992,Q4,Enterprise,Enterprise,Churned,60802,30,37,5,3.1,Ecommerce,Competitor,Enterprise CSM,13,East
+993,Q4,Enterprise,Enterprise,Active,36126,32,137,60,8.2,Ecommerce,Not Applicable,Enterprise CSM,0,South
+994,Q4,Mid-Market,Growth,Paused,12768,3,38,20,5.9,Healthcare,Not Applicable,Self-serve,6,West
+995,Q4,Mid-Market,Enterprise,Churned,74739,23,65,5,3.0,Manufacturing,Competitor,Enterprise CSM,15,West
+996,Q4,Mid-Market,Growth,Paused,15378,33,5,35,5.4,Logistics,Not Applicable,Assisted,6,West
+997,Q4,SMB,Growth,Active,13739,7,37,75,6.4,EdTech,Not Applicable,Assisted,0,South
+998,Q4,SMB,Starter,Churned,4276,21,2,14,5.8,Media,Missing features,Unknown,8,East
+999,Q4,Enterprise,Enterprise,Active,65899,29,40,67,6.8,Ecommerce,Not Applicable,Enterprise CSM,3,East
+1000,Q4,SMB,Growth,Churned,14193,24,15,5,3.4,EdTech,Price,Assisted,13,East
+1001,Q4,Mid-Market,Enterprise,Churned,45133,27,87,13,4.9,Ecommerce,Missing features,Enterprise CSM,14,East
+1002,Q4,SMB,Starter,Active,4523,5,3,35,9.0,Ecommerce,Not Applicable,Self-serve,1,East
+1003,Q4,SMB,Starter,Trial,4402,14,9,30,5.2,SaaS,Not Applicable,Self-serve,4,East
+1004,Q4,Enterprise,Enterprise,Active,64307,25,156,69,6.9,Fintech,Not Applicable,Unknown,6,West
+1005,Q4,SMB,Starter,Churned,4099,24,8,11,3.7,Manufacturing,Price,Self-serve,6,South
+1006,Q4,Mid-Market,Growth,Churned,14014,33,11,22,5.3,Media,Competitor,Self-serve,15,South
+1007,Q4,Mid-Market,Growth,Trial,8958,30,22,39,6.6,SaaS,Not Applicable,Assisted,1,South
+1008,Q4,SMB,Starter,Churned,4970,11,5,18,3.8,Ecommerce,Poor UX,Self-serve,6,West
+1009,Q4,Enterprise,Enterprise,Active,76928,9,95,51,7.6,EdTech,Not Applicable,Enterprise CSM,5,North
+1010,Q4,SMB,Growth,Active,8932,21,11,39,8.7,SaaS,Not Applicable,Self-serve,1,East
+1011,Q4,Mid-Market,Growth,Active,13889,3,32,46,6.2,Logistics,Not Applicable,Assisted,4,East
+1012,Q4,Mid-Market,Growth,Trial,18995,23,42,42,6.5,Media,Not Applicable,Assisted,2,East
+1013,Q4,Enterprise,Enterprise,Active,44263,21,53,56,7.6,Healthcare,Not Applicable,Enterprise CSM,1,West
+1014,Q4,Enterprise,Growth,Trial,13924,18,32,44,6.7,Fintech,Not Applicable,Self-serve,0,East
+1015,Q4,Enterprise,Enterprise,Active,34124,7,54,52,7.4,Logistics,Not Applicable,Enterprise CSM,2,West
+1016,Q4,SMB,Growth,Active,16958,12,48,39,8.7,SaaS,Not Applicable,Assisted,2,North
+1017,Q4,SMB,Starter,Active,4534,6,6,63,8.1,Media,Not Applicable,Self-serve,4,East
+1018,Q4,Mid-Market,Starter,Active,3631,13,1,43,8.6,Healthcare,Not Applicable,Self-serve,1,North
+1019,Q4,SMB,Growth,Trial,17009,27,20,31,6.4,Healthcare,Not Applicable,Assisted,3,East
+1020,Q4,Mid-Market,Growth,Active,13242,24,32,55,7.9,Healthcare,Not Applicable,Self-serve,4,South
+1021,Q4,SMB,Starter,Active,4705,12,9,41,8.8,EdTech,Not Applicable,Self-serve,3,West
+1022,Q4,Enterprise,Starter,Active,4684,25,1,67,7.4,Media,Not Applicable,Self-serve,2,South
+1023,Q4,SMB,Starter,Churned,4404,18,9,29,3.3,EdTech,Budget cut,Self-serve,4,East
+1024,Q4,Enterprise,Enterprise,Active,52908,18,146,38,7.2,Media,Not Applicable,Enterprise CSM,3,South
+1025,Q4,Enterprise,Growth,Trial,16844,15,43,28,6.6,Healthcare,Not Applicable,Assisted,3,South
+1026,Q4,SMB,Starter,Active,3302,14,10,40,8.4,Media,Not Applicable,Self-serve,6,East
+1027,Q4,Enterprise,Enterprise,Active,35588,3,167,54,7.5,Manufacturing,Not Applicable,Enterprise CSM,0,West
+1028,Q4,SMB,Growth,Churned,12352,27,50,14,4.8,Ecommerce,Budget cut,Assisted,4,South
+1029,Q4,Mid-Market,Starter,Active,3842,4,3,67,7.2,Logistics,Not Applicable,Self-serve,1,West
+1030,Q4,SMB,Growth,Churned,17510,7,35,7,4.9,EdTech,Missing features,Assisted,7,North
+1031,Q4,Enterprise,Enterprise,Trial,46774,21,100,25,6.8,Fintech,Not Applicable,Enterprise CSM,4,East
+1032,Q4,Enterprise,Enterprise,Churned,60809,19,20,7,4.1,Media,Poor UX,Enterprise CSM,7,South
+1033,Q4,SMB,Growth,Churned,17016,22,15,8,3.5,Healthcare,Budget cut,Self-serve,12,North
+1034,Q4,Mid-Market,Starter,Trial,3712,25,8,28,7.0,Logistics,Not Applicable,Self-serve,1,East
+1035,Q4,SMB,Starter,Active,3678,4,8,69,8.4,Fintech,Not Applicable,Self-serve,4,South
+1036,Q4,Enterprise,Growth,Active,13298,8,47,62,6.2,SaaS,Not Applicable,Assisted,5,East
+1037,Q4,Enterprise,Growth,Active,9488,35,8,45,6.9,SaaS,Not Applicable,Assisted,2,North
+1038,Q4,Enterprise,Enterprise,Churned,47725,5,127,40,4.0,Fintech,Competitor,Enterprise CSM,9,South
+1039,Q4,SMB,Growth,Churned,9793,10,23,7,5.7,Ecommerce,Missing features,Assisted,12,West
+1040,Q4,SMB,Starter,Trial,3571,8,10,28,8.0,Media,Not Applicable,Self-serve,0,West
+1041,Q4,Mid-Market,Enterprise,Trial,50526,34,69,41,6.9,Logistics,Not Applicable,Enterprise CSM,0,North
+1042,Q4,Enterprise,Enterprise,Active,57857,29,133,73,6.2,EdTech,Not Applicable,Enterprise CSM,0,East
+1043,Q4,Mid-Market,Enterprise,Churned,72735,23,162,10,4.9,Ecommerce,Budget cut,Enterprise CSM,3,West
+1044,Q4,Enterprise,Enterprise,Active,38958,20,69,43,9.0,Ecommerce,Not Applicable,Enterprise CSM,5,South
+1045,Q4,SMB,Growth,Trial,19672,8,6,15,5.3,Logistics,Not Applicable,Assisted,1,West
+1046,Q4,SMB,Starter,Active,2039,17,9,41,6.2,SaaS,Not Applicable,Self-serve,4,North
+1047,Q4,Enterprise,Starter,Churned,4430,28,2,20,3.9,Logistics,Missing features,Self-serve,12,West
+1048,Q4,Enterprise,Enterprise,Churned,54622,4,150,5,4.2,EdTech,Missing features,Enterprise CSM,9,North
+1049,Q4,Mid-Market,Growth,Active,15253,6,18,36,8.8,Fintech,Not Applicable,Assisted,2,West
+1050,Q4,SMB,Starter,Active,2456,24,8,61,6.2,Ecommerce,Not Applicable,Self-serve,3,East
+1051,Q4,Enterprise,Enterprise,Churned,64300,25,124,25,5.4,SaaS,Competitor,Enterprise CSM,13,South
+1052,Q4,SMB,Starter,Churned,2651,12,3,26,4.2,Logistics,Price,Self-serve,14,East
+1053,Q4,Enterprise,Enterprise,Churned,69293,16,130,36,5.0,Fintech,Price,Enterprise CSM,11,North
+1054,Q4,SMB,Enterprise,Churned,35095,34,73,32,3.1,Healthcare,Competitor,Enterprise CSM,10,West
+1055,Q4,SMB,Starter,Active,3419,17,4,61,8.1,Logistics,Not Applicable,Unknown,3,East
+1056,Q4,Enterprise,Growth,Active,18324,6,36,75,8.4,Fintech,Not Applicable,Assisted,1,North
+1057,Q4,SMB,Starter,Churned,2276,10,4,30,5.5,EdTech,Price,Self-serve,11,East
+1058,Q4,Enterprise,Enterprise,Churned,73207,20,194,9,3.4,Fintech,Poor UX,Enterprise CSM,13,West
+1059,Q4,Mid-Market,Growth,Churned,15461,30,43,35,5.4,Manufacturing,Missing features,Assisted,15,North
+1060,Q4,Mid-Market,Enterprise,Active,34048,12,107,68,6.5,Manufacturing,Not Applicable,Enterprise CSM,3,North
+1061,Q4,Enterprise,Starter,Active,4497,22,2,73,8.6,SaaS,Not Applicable,Self-serve,3,East
+1062,Q4,SMB,Starter,Active,3056,12,9,71,7.4,EdTech,Not Applicable,Self-serve,1,East
+1063,Q4,SMB,Starter,Paused,2935,5,8,36,7.5,Logistics,Not Applicable,Self-serve,6,North
+1064,Q4,SMB,Starter,Trial,3228,9,2,31,5.7,Healthcare,Not Applicable,Self-serve,1,East
+1065,Q4,Enterprise,Enterprise,Churned,56017,17,114,10,3.2,SaaS,Missing features,Enterprise CSM,12,South
+1066,Q4,SMB,Starter,Active,3454,27,1,37,7.1,Ecommerce,Not Applicable,Self-serve,4,East
+1067,Q4,SMB,Starter,Active,2254,14,4,38,8.9,SaaS,Not Applicable,Self-serve,3,West
+1068,Q4,Enterprise,Enterprise,Active,70101,8,182,44,8.5,SaaS,Not Applicable,Enterprise CSM,2,East
+1069,Q4,Enterprise,Enterprise,Active,79827,24,73,69,6.4,SaaS,Not Applicable,Enterprise CSM,3,East
+1070,Q4,SMB,Growth,Active,13889,34,40,59,7.2,Logistics,Not Applicable,Self-serve,0,East
+1071,Q4,SMB,Enterprise,Paused,79435,3,74,33,6.6,EdTech,Not Applicable,Enterprise CSM,3,North
+1072,Q4,SMB,Starter,Active,4434,35,7,64,6.5,Healthcare,Not Applicable,Unknown,2,East
+1073,Q4,SMB,Growth,Active,17428,8,33,75,8.7,Ecommerce,Not Applicable,Assisted,2,South
+1074,Q4,SMB,Starter,Active,4610,8,9,51,6.3,EdTech,Not Applicable,Self-serve,1,West
+1075,Q4,Mid-Market,Growth,Active,13775,36,9,61,8.1,Media,Not Applicable,Assisted,5,South
+1076,Q4,SMB,Growth,Churned,13592,18,47,27,3.5,Ecommerce,Price,Assisted,13,North
+1077,Q4,SMB,Starter,Churned,3632,9,10,17,5.0,SaaS,Not Applicable,Self-serve,14,West
+1078,Q4,SMB,Starter,Active,3356,31,4,39,6.9,EdTech,Not Applicable,Self-serve,2,North
+1079,Q4,Mid-Market,Growth,Churned,9150,7,39,27,3.7,SaaS,Poor UX,Assisted,9,East
+1080,Q4,Enterprise,Growth,Paused,10625,28,39,31,7.6,Fintech,Not Applicable,Self-serve,2,North
+1081,Q4,Mid-Market,Growth,Active,13993,31,25,57,9.0,Media,Not Applicable,Assisted,2,South
+1082,Q4,Mid-Market,Growth,Churned,11890,11,46,17,4.9,EdTech,Missing features,Self-serve,6,West
+1083,Q4,SMB,Starter,Active,2283,29,2,74,7.1,Healthcare,Not Applicable,Self-serve,4,East
+1084,Q4,Enterprise,Growth,Active,12352,16,8,65,7.6,Fintech,Not Applicable,Assisted,1,West
+1085,Q4,Enterprise,Enterprise,Paused,44353,12,33,37,7.9,Fintech,Not Applicable,Enterprise CSM,5,East
+1086,Q4,Mid-Market,Growth,Churned,9148,7,35,33,5.7,Logistics,No response,Assisted,3,South
+1087,Q4,SMB,Growth,Trial,8160,25,32,47,5.2,Media,Not Applicable,Assisted,4,West
+1088,Q4,SMB,Growth,Active,10838,19,33,57,6.8,SaaS,Not Applicable,Assisted,0,North
+1089,Q4,Enterprise,Enterprise,Trial,79217,22,25,32,5.9,Ecommerce,Not Applicable,Enterprise CSM,0,East
+1090,Q4,SMB,Starter,Active,2066,36,2,39,7.3,Healthcare,Not Applicable,Self-serve,1,South
+1091,Q4,Mid-Market,Growth,Paused,10782,32,30,40,5.9,Manufacturing,Not Applicable,Assisted,5,South
+1092,Q4,Mid-Market,Growth,Active,10874,22,10,39,7.4,EdTech,Not Applicable,Assisted,1,North
+1093,Q4,SMB,Growth,Trial,14112,5,36,31,6.5,Fintech,Not Applicable,Self-serve,1,North
+1094,Q4,SMB,Starter,Trial,2162,25,5,22,7.0,Logistics,Not Applicable,Self-serve,5,West
+1095,Q4,Mid-Market,Growth,Active,11253,4,46,75,8.8,Fintech,Not Applicable,Assisted,5,West
+1096,Q4,SMB,Starter,Paused,3792,22,2,19,5.3,Fintech,Not Applicable,Self-serve,0,North
+1097,Q4,Mid-Market,Growth,Active,18315,6,35,51,7.5,Logistics,Not Applicable,Self-serve,3,West
+1098,Q4,SMB,Growth,Active,18931,30,8,38,7.9,Fintech,Not Applicable,Assisted,2,East
+1099,Q4,Enterprise,Enterprise,Paused,53970,20,28,34,5.3,Media,Not Applicable,Self-serve,5,East
+1100,Q4,Mid-Market,Growth,Active,13337,20,30,71,8.1,Healthcare,Not Applicable,Self-serve,2,South
+1101,Q4,Enterprise,Enterprise,Trial,72900,22,198,48,7.0,EdTech,Not Applicable,Enterprise CSM,1,West
+1102,Q4,Mid-Market,Growth,Active,15070,35,23,70,6.8,Manufacturing,Not Applicable,Self-serve,0,East
+1103,Q4,SMB,Starter,Paused,3464,25,2,15,5.6,SaaS,Not Applicable,Self-serve,4,North
+1104,Q4,SMB,Starter,Active,2411,20,6,37,7.2,Manufacturing,Not Applicable,Self-serve,5,South
+1105,Q4,Mid-Market,Enterprise,Trial,48001,31,61,30,7.6,Manufacturing,Not Applicable,Enterprise CSM,0,West
+1106,Q4,Mid-Market,Growth,Trial,15837,19,14,32,5.2,Media,Not Applicable,Self-serve,1,East
+1107,Q4,Enterprise,Enterprise,Active,37294,24,115,71,8.9,Media,Not Applicable,Enterprise CSM,6,West
+1108,Q4,Mid-Market,Enterprise,Trial,53531,8,174,50,7.0,Manufacturing,Not Applicable,Enterprise CSM,3,East
+1109,Q4,SMB,Starter,Active,3318,12,2,43,8.8,Media,Not Applicable,Self-serve,3,South
+1110,Q4,Mid-Market,Starter,Churned,4072,29,2,18,4.1,EdTech,No response,Self-serve,10,North
+1111,Q4,SMB,Growth,Active,15124,36,20,38,7.6,Healthcare,Not Applicable,Assisted,5,East
+1112,Q4,Mid-Market,Growth,Churned,9838,10,14,11,5.3,Ecommerce,Competitor,Assisted,13,South
+1113,Q4,Enterprise,Enterprise,Active,78753,31,26,57,8.9,Media,Not Applicable,Enterprise CSM,3,West
+1114,Q4,Mid-Market,Enterprise,Churned,58283,4,72,10,4.6,Fintech,Price,Enterprise CSM,5,East
+1115,Q4,SMB,Enterprise,Active,67503,28,118,38,8.0,Logistics,Not Applicable,Enterprise CSM,2,South
+1116,Q4,Mid-Market,Growth,Paused,16866,25,23,38,6.7,SaaS,Not Applicable,Self-serve,5,West
+1117,Q4,SMB,Starter,Trial,3103,30,2,26,7.5,Healthcare,Not Applicable,Self-serve,2,West
+1118,Q4,Mid-Market,Growth,Trial,19002,17,37,23,6.7,SaaS,Not Applicable,Assisted,4,West
+1119,Q4,Enterprise,Enterprise,Churned,30569,30,114,5,4.4,Healthcare,Price,Enterprise CSM,12,South
+1120,Q4,SMB,Starter,Trial,3031,14,6,22,5.5,Logistics,Not Applicable,Self-serve,5,East
+1121,Q4,Mid-Market,Growth,Active,8662,16,39,50,6.6,Media,Not Applicable,Assisted,5,East
+1122,Q4,Enterprise,Growth,Active,15366,16,21,41,6.3,EdTech,Not Applicable,Assisted,5,North
+1123,Q4,Mid-Market,Enterprise,Paused,37743,9,77,53,6.3,Logistics,Not Applicable,Enterprise CSM,0,North
+1124,Q4,Mid-Market,Growth,Active,11317,27,40,39,6.9,SaaS,Not Applicable,Assisted,1,North
+1125,Q4,SMB,Starter,Churned,4994,29,6,6,4.2,Logistics,Price,Self-serve,7,South
+1126,Q4,Enterprise,Enterprise,Active,65365,33,184,72,6.9,Media,Not Applicable,Enterprise CSM,4,East
+1127,Q4,Enterprise,Enterprise,Paused,76259,34,199,44,5.0,Healthcare,Not Applicable,Self-serve,4,South
+1128,Q4,SMB,Starter,Churned,4990,26,6,8,4.0,Healthcare,Price,Self-serve,11,North
+1129,Q4,Mid-Market,Growth,Churned,8828,17,38,16,4.1,Manufacturing,Budget cut,Assisted,6,East
+1130,Q4,Mid-Market,Enterprise,Churned,58703,13,84,5,4.8,Fintech,Price,Enterprise CSM,7,East
+1131,Q4,Enterprise,Enterprise,Churned,30737,7,43,36,5.7,SaaS,Missing features,Enterprise CSM,11,West
+1132,Q4,SMB,Growth,Trial,19336,30,30,41,5.4,EdTech,Not Applicable,Self-serve,3,West
+1133,Q4,Enterprise,Enterprise,Trial,31133,29,68,40,5.3,Media,Not Applicable,Enterprise CSM,2,North
+1134,Q4,Mid-Market,Enterprise,Paused,50938,20,137,25,7.6,Manufacturing,Not Applicable,Enterprise CSM,4,South
+1135,Q4,Mid-Market,Growth,Active,12443,6,15,55,7.3,Manufacturing,Not Applicable,Self-serve,4,West
+1136,Q4,SMB,Starter,Churned,3681,10,2,38,4.7,SaaS,Price,Self-serve,10,North
+1137,Q4,Enterprise,Enterprise,Churned,73146,5,154,5,5.4,SaaS,Missing features,Enterprise CSM,6,East
+1138,Q4,Enterprise,Enterprise,Paused,53369,13,189,46,5.1,Fintech,Not Applicable,Enterprise CSM,2,South
+1139,Q4,SMB,Growth,Paused,8855,23,37,21,5.9,Fintech,Not Applicable,Assisted,5,East
+1140,Q4,Mid-Market,Enterprise,Active,68193,35,135,58,8.0,Media,Not Applicable,Unknown,5,West
